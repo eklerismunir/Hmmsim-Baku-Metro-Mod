@@ -1,0 +1,4259 @@
+$Sub(2) = BpM3
+$Sub(3) = BpM3
+With Route
+Route.Comment (budapesti É-D-i metróvonal - bal vágány  Újpest bal kihúzó - K?bánya-Kispest 2 kihúzó  Menetid?: 35 perc    http://www.bvemetro.hu/ - BVE 2.6 verzió)
+.Timetable Újpest-Központ - K?bánya-Kispest
+.Gauge 1435
+.Signal(1) 40
+.Signal(2) 50
+.Signal(3) 60
+.Signal(4) 80
+.Runinterval 165
+With Train
+Train.Folder (81-765B)
+.Run(7) 6
+.Run(8) 3
+.Run(9) 4
+.Run(19) 4
+.Run(20) 4
+.Run(21) 4
+.Run(22) 4
+.Run(23) 4
+.Run(24) 4
+.Run(25) 6
+.Run(26) 6
+.Run(27) 6
+.Run(28) 6
+.Run(29) 6
+.Run(30) 6
+.Run(31) 3
+.Run(32) 3
+.Run(33) 3
+.Run(35) 3
+.Run(36) 3
+.Run(125) 4
+.Run(126) 4
+.Run(129) 4
+.Run(130) 4
+.Run(133) 4
+.Run(135) 4
+.Run(139) 4
+.Run(141) 4
+.Run(142) 4
+.Run(143) 4
+.Run(144) 4
+.Run(145) 4
+.Run(146) 4
+.Run(147) 4
+.Run(148) 4
+.Run(149) 4
+.Run(151) 4
+.Run(152) 4
+.Run(153) 4
+.Run(154) 4
+.Run(155) 4
+.Run(156) 4
+.Run(157) 4
+.Run(158) 4
+.Run(159) 4
+.Run(160) 4
+.Run(161) 4
+.Run(162) 4
+.Run(163) 4
+.Run(164) 4
+.Run(165) 4
+.Run(166) 4
+.Run(167) 4
+.Run(168) 4
+.Run(171) 4
+.Run(172) 4
+.Run(173) 4
+.Run(174) 4
+.Run(181) 4
+.Run(182) 4
+.Run(183) 4
+.Run(184) 4
+.Run(185) 4
+.Run(186) 4
+.Run(187) 4
+.Run(189) 4
+.Run(197) 6
+.Run(202) 3
+.Run(203) 3
+.Run(204) 3
+.Run(211) 3
+.Run(212) 3
+.Run(213) 3
+.Run(214) 4
+With Structure
+Structure.Rail (0) (bpm3\sin\egyenesal.b3d)
+Structure.Rail (1) (bpm3\sin\egyenesar.b3d)
+Structure.Rail (2) (bpm3\sin\egyenesfl.b3d)
+Structure.Rail (3) (bpm3\sin\egyenesfr.b3d)
+Structure.Rail (7) (bpm3\ures.b3d)
+Structure.Rail (8) (bpm3\ures.b3d)
+Structure.Rail (9) (bpm3\ures.b3d)
+Structure.Rail (19) (bpm3\sin\aknar.b3d)
+Structure.Rail (20) (bpm3\sin\egyenesal_avr.b3d)
+Structure.Rail (21) (bpm3\sin\egyenesar_avr.b3d)
+Structure.Rail (22) (bpm3\sin\egyenesa.b3d)
+Structure.Rail (23) (bpm3\sin\egyenesalb_avr.b3d)
+Structure.Rail (24) (bpm3\sin\egyenesarb_avr.b3d)
+Structure.Rail (25) (bpm3\sin\allomasl_avr.b3d)
+Structure.Rail (26) (bpm3\sin\allomasr_avr.b3d)
+Structure.Rail (27) (bpm3\sin\allomaslm1_avr.b3d)
+Structure.Rail (28) (bpm3\sin\allomaslm2_avr.b3d)
+Structure.Rail (29) (bpm3\sin\allomasrm1_avr.b3d)
+Structure.Rail (31) (bpm3\sin\egyenesfl_beton_avr.b3d)
+Structure.Rail (32) (bpm3\sin\egyenesfr_beton_avr.b3d)
+Structure.Rail (33) (bpm3\sin\egyenesflm_beton_avr.b3d)
+Structure.Rail (34) (bpm3\sin\egyenesf_beton.b3d)
+Structure.Rail (35) (bpm3\sin\egyenesfl_beton.b3d)
+Structure.Rail (36) (bpm3\sin\egyenesfr_beton.b3d)
+Structure.Rail (121) (bpm3\sin\l400ar.b3d)
+Structure.Rail (125) (bpm3\sin\l450al.b3d)
+Structure.Rail (126) (bpm3\sin\l450ar.b3d)
+Structure.Rail (129) (bpm3\sin\l500al.b3d)
+Structure.Rail (130) (bpm3\sin\l500ar.b3d)
+Structure.Rail (133) (bpm3\sin\l550al.b3d)
+Structure.Rail (135) (bpm3\sin\r550al.b3d)
+Structure.Rail (139) (bpm3\sin\r600al.b3d)
+Structure.Rail (141) (bpm3\sin\l700al.b3d)
+Structure.Rail (142) (bpm3\sin\l700ar.b3d)
+Structure.Rail (143) (bpm3\sin\r700al.b3d)
+Structure.Rail (144) (bpm3\sin\r700ar.b3d)
+Structure.Rail (145) (bpm3\sin\l800al.b3d)
+Structure.Rail (146) (bpm3\sin\l800ar.b3d)
+Structure.Rail (147) (bpm3\sin\r800al.b3d)
+Structure.Rail (148) (bpm3\sin\r800ar.b3d)
+Structure.Rail (149) (bpm3\sin\l1050al.b3d)
+Structure.Rail (151) (bpm3\sin\l1000al.b3d)
+Structure.Rail (152) (bpm3\sin\l1000ar.b3d)
+Structure.Rail (153) (bpm3\sin\r1000al.b3d)
+Structure.Rail (154) (bpm3\sin\r1000ar.b3d)
+Structure.Rail (155) (bpm3\sin\l1500al.b3d)
+Structure.Rail (156) (bpm3\sin\l1500ar.b3d)
+Structure.Rail (157) (bpm3\sin\r1500al.b3d)
+Structure.Rail (158) (bpm3\sin\r1500ar.b3d)
+Structure.Rail (159) (bpm3\sin\l2000al.b3d)
+Structure.Rail (160) (bpm3\sin\l2000ar.b3d)
+Structure.Rail (161) (bpm3\sin\r2000al.b3d)
+Structure.Rail (162) (bpm3\sin\r2000ar.b3d)
+Structure.Rail (163) (bpm3\sin\l3000al.b3d)
+Structure.Rail (164) (bpm3\sin\l3000ar.b3d)
+Structure.Rail (165) (bpm3\sin\r3000al.b3d)
+Structure.Rail (166) (bpm3\sin\r3000ar.b3d)
+Structure.Rail (167) (bpm3\sin\l4000al.b3d)
+Structure.Rail (168) (bpm3\sin\r4000al.b3d)
+Structure.Rail (169) (bpm3\sin\l10000ar.b3d)
+Structure.Rail (170) (bpm3\sin\r10000ar.b3d)
+Structure.Rail (171) (bpm3\sin\r1200al.b3d)
+Structure.Rail (172) (bpm3\sin\r1200ar.b3d)
+Structure.Rail (173) (bpm3\sin\l2500al.b3d)
+Structure.Rail (174) (bpm3\sin\l2500ar.b3d)
+Structure.Rail (181) (bpm3\sin\l750alb.b3d)
+Structure.Rail (182) (bpm3\sin\l750arb.b3d)
+Structure.Rail (183) (bpm3\sin\r750alb.b3d)
+Structure.Rail (184) (bpm3\sin\r750arb.b3d)
+Structure.Rail (185) (bpm3\sin\l1250ar.b3d)
+Structure.Rail (186) (bpm3\sin\r1250ar.b3d)
+Structure.Rail (187) (bpm3\sin\r650alb_avr.b3d)
+Structure.Rail (189) (bpm3\sin\r650arb_avr.b3d)
+Structure.Rail (197) (bpm3\sin\l1050al_allomas.b3d)
+Structure.Rail (202) (bpm3\sin\l550fr.b3d)
+Structure.Rail (203) (bpm3\sin\r550fl.b3d)
+Structure.Rail (204) (bpm3\sin\r550fr.b3d)
+Structure.Rail (206) (bpm3\sin\r1050fl.b3d)
+Structure.Rail (211) (bpm3\sin\l500fl.b3d)
+Structure.Rail (213) (bpm3\sin\r650fl.b3d)
+Structure.Rail (214) (bpm3\sin\r650fl.b3d)
+Structure.Rail (219) (bpm3\sin\l327fl.b3d)
+Structure.Rail (221) (bpm3\sin\l800fr.b3d)
+Structure.Rail (222) (bpm3\sin\l800fr_avr.b3d)
+Structure.WallL (0) (bpm3\alagut\melyalagutl.b3d)
+Structure.WallR (0) (bpm3\alagut\melyalagutr.b3d)
+Structure.WallL (1) (bpm3\alagut\melyalagutl_kezd.b3d)
+Structure.WallR (1) (bpm3\alagut\melyalagutr_kezd.b3d)
+Structure.WallL (2) (bpm3\alagut\melyalagutl_vege.b3d)
+Structure.WallR (2) (bpm3\alagut\melyalagutr_vege.b3d)
+Structure.WallL (10) (bpm3\alagut\keretalagut1l.b3d)
+Structure.WallR (10) (bpm3\alagut\keretalagut1r.b3d)
+Structure.WallL (11) (bpm3\alagut\keretalagut1l_kezd.b3d)
+Structure.WallR (11) (bpm3\alagut\keretalagut1r_kezd.b3d)
+Structure.WallL (12) (bpm3\alagut\keretalagut1l_vege.b3d)
+Structure.WallR (12) (bpm3\alagut\keretalagut1r_vege.b3d)
+Structure.WallL (13) (bpm3\alagut\keretalagut1l_30m.b3d)
+Structure.WallR (13) (bpm3\alagut\keretalagut1r_30m.b3d)
+Structure.WallL (16) (bpm3\alagut\keretalagut2al.b3d)
+Structure.WallR (16) (bpm3\alagut\keretalagut2ar.b3d)
+Structure.WallL (17) (bpm3\alagut\keretalagut2bl.b3d)
+Structure.WallR (17) (bpm3\alagut\keretalagut2br.b3d)
+Structure.WallL (31) (bpm3\felszin\kerites31l.b3d)
+Structure.WallR (31) (bpm3\felszin\kerites31r.b3d)
+Structure.WallL (32) (bpm3\felszin\kerites32l.b3d)
+Structure.WallR (32) (bpm3\felszin\kerites32r.b3d)
+Structure.WallL (33) (bpm3\felszin\kerites33l.b3d)
+Structure.WallR (33) (bpm3\felszin\kerites33r.b3d)
+Structure.WallL (34) (bpm3\felszin\kerites34l.b3d)
+Structure.WallR (34) (bpm3\felszin\kerites34r.b3d)
+Structure.WallL (39) (bpm3\felszin\kerites39l.b3d)
+Structure.WallR (39) (bpm3\felszin\kerites39r.b3d)
+Structure.WallL (41) (bpm3\felszin\kerites41l.b3d)
+Structure.WallR (41) (bpm3\felszin\kerites41r.b3d)
+Structure.WallL (51) (bpm3\felszin\kerites51l.b3d)
+Structure.WallR (51) (bpm3\felszin\kerites51r.b3d)
+Structure.WallL (61) (bpm3\felszin\kerites61l.b3d)
+Structure.WallR (61) (bpm3\felszin\kerites61r.b3d)
+Structure.WallL (62) (bpm3\felszin\kerites62l.b3d)
+Structure.WallR (62) (bpm3\felszin\kerites62r.b3d)
+Structure.WallL (64) (bpm3\felszin\kerites64l.b3d)
+Structure.WallR (64) (bpm3\felszin\kerites64r.b3d)
+Structure.WallL (71) (bpm3\felszin\kerites71l.b3d)
+Structure.WallL (72) (bpm3\felszin\kerites72l.b3d)
+Structure.WallR (72) (bpm3\felszin\kerites72r.b3d)
+Structure.WallL (73) (bpm3\felszin\kerites73l.b3d)
+Structure.WallR (73) (bpm3\felszin\kerites73r.b3d)
+Structure.WallL (74) (bpm3\felszin\kerites74l.b3d)
+Structure.WallR (74) (bpm3\felszin\kerites74r.b3d)
+Structure.WallL (75) (bpm3\felszin\kerites75l.b3d)
+Structure.WallR (75) (bpm3\felszin\kerites75r.b3d)
+Structure.WallL (76) (bpm3\felszin\kerites76l.b3d)
+Structure.WallR (76) (bpm3\felszin\kerites76r.b3d)
+Structure.WallR (77) (bpm3\felszin\kerites77r.b3d)
+Structure.Ground (0) (bpm3\alagut.b3d)
+Structure.Ground (10) (bpm3\terep\terep_010.b3d)
+Structure.Ground (11) (bpm3\terep\terep_011.b3d)
+Structure.Ground (12) (bpm3\terep\terep_012.b3d)
+Structure.Ground (30) (bpm3\terep\terep_030.b3d)
+Structure.Ground (31) (bpm3\terep\terep_031.b3d)
+Structure.freeobj (80) (bpm3\felszin\kerites51l.b3d)
+Structure.freeobj (81) (bpm3\ures.b3d)
+Structure.freeobj (82) (bpm3\ures.b3d)
+Structure.freeobj (83) (bpm3\ures.b3d)
+Structure.freeobj (84) (bpm3\ures.b3d)
+Structure.freeobj (85) (bpm3\ures.b3d)
+Structure.freeobj (86) (bpm3\ures.b3d)
+Structure.freeobj (87) (bpm3\ures.b3d)
+Structure.freeobj (88) (bpm3\ures.b3d)
+Structure.freeobj (100) (bpm3\allomas\20bajcsy\mh_20_uk_00.b3d)
+Structure.freeobj (101) (bpm3\allomas\20bajcsy\mh_20_uk_01.b3d)
+Structure.freeobj (102) (bpm3\allomas\20bajcsy\mh_20_uk_02.b3d)
+Structure.freeobj (103) (bpm3\allomas\20bajcsy\mh_20_uk_03.b3d)
+Structure.freeobj (104) (bpm3\allomas\20bajcsy\mh_20_uk_04.b3d)
+Structure.freeobj (105) (bpm3\allomas\20bajcsy\mh_20_uk_05.b3d)
+Structure.freeobj (106) (bpm3\allomas\20bajcsy\mh_20_uk_lepcso.b3d)
+Structure.freeobj (107) (bpm3\allomas\20bajcsy\mh_20_uk_oszlop.b3d)
+Structure.freeobj (108) (bpm3\allomas\20bajcsy\mh_20_uk_00k1.b3d)
+Structure.freeobj (109) (bpm3\allomas\20bajcsy\mh_20_uk_00k2.b3d)
+Structure.freeobj (110) (bpm3\allomas\20bajcsy\mh_20_ukk_kihuzoperon.b3d)
+Structure.freeobj (111) (bpm3\allomas\20bajcsy\mh_20_ukk_korlat.b3d)
+Structure.freeobj (112) (bpm3\allomas\20bajcsy\mh_20_ukk_kihuzoperon_l650.b3d)
+Structure.freeobj (113) (bpm3\allomas\20bajcsy\mh_20_ukk_korlat_l650.b3d)
+Structure.freeobj (115) (bpm3\allomas\20bajcsy\mh_20_ukk_kerites.b3d)
+Structure.freeobj (120) (bpm3\allomas\20bajcsy\mh_20_uk_vege.b3d)
+Structure.freeobj (125) (bpm3\allomas\19kapu\mh_19_uv_00.b3d)
+Structure.freeobj (126) (bpm3\allomas\19kapu\mh_19_uv_01.b3d)
+Structure.freeobj (127) (bpm3\allomas\19kapu\mh_19_uv_02.b3d)
+Structure.freeobj (128) (bpm3\allomas\19kapu\mh_19_uv_03.b3d)
+Structure.freeobj (129) (bpm3\allomas\19kapu\mh_19_uv_04.b3d)
+Structure.freeobj (130) (bpm3\allomas\19kapu\mh_19_uv_05.b3d)
+Structure.freeobj (131) (bpm3\allomas\19kapu\mh_19_uv_lepcso.b3d)
+Structure.freeobj (150) (bpm3\allomas\18gyongy\mh_18_gy_00.b3d)
+Structure.freeobj (151) (bpm3\allomas\18gyongy\mh_18_gy_01.b3d)
+Structure.freeobj (152) (bpm3\allomas\18gyongy\mh_18_gy_02.b3d)
+Structure.freeobj (153) (bpm3\allomas\18gyongy\mh_18_gy_03.b3d)
+Structure.freeobj (154) (bpm3\allomas\18gyongy\mh_18_gy_04.b3d)
+Structure.freeobj (155) (bpm3\allomas\18gyongy\mh_18_gy_05.b3d)
+Structure.freeobj (156) (bpm3\allomas\18gyongy\mh_18_gy_06.b3d)
+Structure.freeobj (157) (bpm3\allomas\18gyongy\mh_18_gy_07.b3d)
+Structure.freeobj (175) (bpm3\allomas\17fo\mh_17_fo_00.b3d)
+Structure.freeobj (176) (bpm3\allomas\17fo\mh_17_fo_01.b3d)
+Structure.freeobj (177) (bpm3\allomas\17fo\mh_17_fo_02.b3d)
+Structure.freeobj (178) (bpm3\allomas\17fo\mh_17_fo_03.b3d)
+Structure.freeobj (179) (bpm3\allomas\17fo\mh_17_fo_04.b3d)
+Structure.freeobj (180) (bpm3\allomas\17fo\mh_17_fo_05.b3d)
+Structure.freeobj (181) (bpm3\allomas\17fo\fo_oszlop.b3d)
+Structure.freeobj (182) (bpm3\allomas\17fo\fo_fal.b3d)
+Structure.freeobj (200) (bpm3\allomas\16ahid\mh_16_ah_00.b3d)
+Structure.freeobj (201) (bpm3\allomas\16ahid\mh_16_ah_01.b3d)
+Structure.freeobj (202) (bpm3\allomas\16ahid\mh_16_ah_02.b3d)
+Structure.freeobj (203) (bpm3\allomas\16ahid\mh_16_ah_03.b3d)
+Structure.freeobj (204) (bpm3\allomas\16ahid\mh_16_ah_04.b3d)
+Structure.freeobj (205) (bpm3\allomas\16ahid\mh_16_ah_05.b3d)
+Structure.freeobj (207) (bpm3\allomas\16ahid\mh_16_ah_oszlop.b3d)
+Structure.freeobj (211) (bpm3\allomas\16ahid\mh_16_ah_kihuzo1.b3d)
+Structure.freeobj (212) (bpm3\allomas\16ahid\mh_16_ah_kihuzo2.b3d)
+Structure.freeobj (213) (bpm3\allomas\16ahid\mh_16_ah_kihuzokorlat1.b3d)
+Structure.freeobj (214) (bpm3\allomas\16ahid\mh_16_ah_kihuzokorlat2.b3d)
+Structure.freeobj (225) (bpm3\allomas\15dozsa\mh_15_do_00.b3d)
+Structure.freeobj (226) (bpm3\allomas\15dozsa\mh_15_do_01.b3d)
+Structure.freeobj (227) (bpm3\allomas\15dozsa\mh_15_do_02.b3d)
+Structure.freeobj (228) (bpm3\allomas\15dozsa\mh_15_do_03.b3d)
+Structure.freeobj (229) (bpm3\allomas\15dozsa\mh_15_do_04.b3d)
+Structure.freeobj (230) (bpm3\allomas\15dozsa\mh_15_do_05.b3d)
+Structure.freeobj (231) (bpm3\allomas\15dozsa\mh_15_do_06.b3d)
+Structure.freeobj (232) (bpm3\allomas\15dozsa\mh_15_do_00k1.b3d)
+Structure.freeobj (233) (bpm3\allomas\15dozsa\mh_15_do_00k2.b3d)
+Structure.freeobj (251) (bpm3\allomas\14lehel\mh_14_lt_01.b3d)
+Structure.freeobj (252) (bpm3\allomas\14lehel\mh_14_lt_02.b3d)
+Structure.freeobj (253) (bpm3\allomas\14lehel\mh_14_lt_03.b3d)
+Structure.freeobj (254) (bpm3\allomas\14lehel\mh_14_lt_14.b3d)
+Structure.freeobj (255) (bpm3\allomas\14lehel\mh_14_lt_15.b3d)
+Structure.freeobj (259) (bpm3\allomas\14lehel\mh_14_lt_24.b3d)
+Structure.freeobj (260) (bpm3\allomas\14lehel\mh_14_lt_25.b3d)
+Structure.freeobj (261) (bpm3\alagut\keretalagutl_lehel.b3d)
+Structure.freeobj (262) (bpm3\alagut\keretalagutr_lehel.b3d)
+Structure.freeobj (270) (bpm3\allomas\14lehel\mh_14_lt_oszlop.b3d)
+Structure.freeobj (275) (bpm3\allomas\13nyugati\mh_13_ny_00a.b3d)
+Structure.freeobj (276) (bpm3\allomas\13nyugati\mh_13_ny_11.b3d)
+Structure.freeobj (277) (bpm3\allomas\13nyugati\mh_13_ny_12.b3d)
+Structure.freeobj (278) (bpm3\allomas\13nyugati\mh_13_ny_13.b3d)
+Structure.freeobj (279) (bpm3\allomas\13nyugati\mh_13_ny_14.b3d)
+Structure.freeobj (280) (bpm3\allomas\13nyugati\mh_13_ny_15.b3d)
+Structure.freeobj (281) (bpm3\allomas\13nyugati\mh_13_ny_00b.b3d)
+Structure.freeobj (282) (bpm3\allomas\13nyugati\mh_13_ny_00c.b3d)
+Structure.freeobj (283) (bpm3\allomas\13nyugati\mh_13_ny_00d.b3d)
+Structure.freeobj (300) (bpm3\allomas\12arany\mh_12_aj_00.b3d)
+Structure.freeobj (301) (bpm3\allomas\12arany\mh_12_aj_11.b3d)
+Structure.freeobj (302) (bpm3\allomas\12arany\mh_12_aj_12.b3d)
+Structure.freeobj (303) (bpm3\allomas\12arany\mh_12_aj_13.b3d)
+Structure.freeobj (304) (bpm3\allomas\12arany\mh_12_aj_14.b3d)
+Structure.freeobj (305) (bpm3\allomas\12arany\mh_12_aj_15.b3d)
+Structure.freeobj (306) (bpm3\allomas\12arany\mh_12_aj_oszlop.b3d)
+Structure.freeobj (534) (bpm3\alagut\mely_m3de_b18250l_l.b3d)
+Structure.freeobj (600) (bpm3\allomas\11deak\mh_11_dt_00.b3d)
+Structure.freeobj (602) (bpm3\allomas\11deak\mh_11_dt_02.b3d)
+Structure.freeobj (603) (bpm3\allomas\11deak\mh_11_dt_03.b3d)
+Structure.freeobj (605) (bpm3\allomas\11deak\mh_11_dt_05.b3d)
+Structure.freeobj (606) (bpm3\allomas\11deak\mh_11_dt_oszlop.b3d)
+Structure.freeobj (611) (bpm3\allomas\11deak\mh_11_dt_11.b3d)
+Structure.freeobj (613) (bpm3\allomas\11deak\mh_11_dt_13.b3d)
+Structure.freeobj (615) (bpm3\allomas\11deak\mh_11_dt_15.b3d)
+Structure.freeobj (625) (bpm3\allomas\10ferenciek\mh_10_ft_00.b3d)
+Structure.freeobj (626) (bpm3\allomas\10ferenciek\mh_10_ft_11.b3d)
+Structure.freeobj (627) (bpm3\allomas\10ferenciek\mh_10_ft_12.b3d)
+Structure.freeobj (628) (bpm3\allomas\10ferenciek\mh_10_ft_13.b3d)
+Structure.freeobj (629) (bpm3\allomas\10ferenciek\mh_10_ft_14.b3d)
+Structure.freeobj (630) (bpm3\allomas\10ferenciek\mh_10_ft_15.b3d)
+Structure.freeobj (631) (bpm3\allomas\10ferenciek\mh_10_ft_oszlop.b3d)
+Structure.freeobj (650) (bpm3\allomas\09kalvin\mh_09_kt_00.b3d)
+Structure.freeobj (651) (bpm3\allomas\09kalvin\mh_09_kt_11.b3d)
+Structure.freeobj (652) (bpm3\allomas\09kalvin\mh_09_kt_12.b3d)
+Structure.freeobj (653) (bpm3\allomas\09kalvin\mh_09_kt_13.b3d)
+Structure.freeobj (654) (bpm3\allomas\09kalvin\mh_09_kt_14.b3d)
+Structure.freeobj (655) (bpm3\allomas\09kalvin\mh_09_kt_15.b3d)
+Structure.freeobj (656) (bpm3\allomas\09kalvin\mh_09_kt_oszlop.b3d)
+Structure.freeobj (675) (bpm3\allomas\08korut\mh_08_fk_00.b3d)
+Structure.freeobj (676) (bpm3\allomas\08korut\mh_08_fk_11.b3d)
+Structure.freeobj (677) (bpm3\allomas\08korut\mh_08_fk_12.b3d)
+Structure.freeobj (678) (bpm3\allomas\08korut\mh_08_fk_13.b3d)
+Structure.freeobj (679) (bpm3\allomas\08korut\mh_08_fk_14.b3d)
+Structure.freeobj (680) (bpm3\allomas\08korut\mh_08_fk_15.b3d)
+Structure.freeobj (681) (bpm3\allomas\08korut\mh_08_fk_oszlop.b3d)
+Structure.freeobj (700) (bpm3\allomas\07klinika\mh_07_kl_00.b3d)
+Structure.freeobj (701) (bpm3\allomas\07klinika\mh_07_kl_11.b3d)
+Structure.freeobj (702) (bpm3\allomas\07klinika\mh_07_kl_12.b3d)
+Structure.freeobj (703) (bpm3\allomas\07klinika\mh_07_kl_13.b3d)
+Structure.freeobj (704) (bpm3\allomas\07klinika\mh_07_kl_14.b3d)
+Structure.freeobj (705) (bpm3\allomas\07klinika\mh_07_kl_15.b3d)
+Structure.freeobj (706) (bpm3\allomas\07klinika\mh_07_kl_oszlop.b3d)
+Structure.freeobj (711) (bpm3\allomas\06nvt\mh_06_nv_kerites.b3d)
+Structure.freeobj (721) (bpm3\allomas\06nvt\mh_06_nv_oszlop1.b3d)
+Structure.freeobj (722) (bpm3\allomas\06nvt\mh_06_nv_oszlop2.b3d)
+Structure.freeobj (723) (bpm3\allomas\06nvt\mh_06_nv_oszlop3.b3d)
+Structure.freeobj (726) (bpm3\allomas\06nvt\mh_06_nv_11.b3d)
+Structure.freeobj (727) (bpm3\allomas\06nvt\mh_06_nv_12.b3d)
+Structure.freeobj (728) (bpm3\allomas\06nvt\mh_06_nv_13.b3d)
+Structure.freeobj (729) (bpm3\allomas\06nvt\mh_06_nv_14.b3d)
+Structure.freeobj (730) (bpm3\allomas\06nvt\mh_06_nv_15.b3d)
+Structure.freeobj (731) (bpm3\allomas\06nvt\mh_06_nv_kihuzo.b3d)
+Structure.freeobj (732) (bpm3\allomas\06nvt\mh_06_nv_korlat.b3d)
+Structure.freeobj (736) (bpm3\allomas\06nvt\mh_06_nv_21.b3d)
+Structure.freeobj (737) (bpm3\allomas\06nvt\mh_06_nv_22.b3d)
+Structure.freeobj (738) (bpm3\allomas\06nvt\mh_06_nv_23.b3d)
+Structure.freeobj (739) (bpm3\allomas\06nvt\mh_06_nv_24.b3d)
+Structure.freeobj (740) (bpm3\allomas\06nvt\mh_06_nv_25.b3d)
+Structure.freeobj (741) (bpm3\alagut\keretalagut_balnvt_l.b3d)
+Structure.freeobj (742) (bpm3\alagut\keretalagut_balnvt_r.b3d)
+Structure.freeobj (745) (bpm3\alagut\mely-keret.b3d)
+Structure.freeobj (750) (bpm3\allomas\05liget\mh_05_nl_00.b3d)
+Structure.freeobj (751) (bpm3\allomas\05liget\mh_05_nl_01.b3d)
+Structure.freeobj (752) (bpm3\allomas\05liget\mh_05_nl_02.b3d)
+Structure.freeobj (753) (bpm3\allomas\05liget\mh_05_nl_03.b3d)
+Structure.freeobj (754) (bpm3\allomas\05liget\mh_05_nl_04.b3d)
+Structure.freeobj (755) (bpm3\allomas\05liget\mh_05_nl_05.b3d)
+Structure.freeobj (762) (bpm3\allomas\05liget\nl_oszlop.b3d)
+Structure.freeobj (775) (bpm3\allomas\04ecseri\mh_04_ec_00.b3d)
+Structure.freeobj (776) (bpm3\allomas\04ecseri\mh_04_ec_01.b3d)
+Structure.freeobj (777) (bpm3\allomas\04ecseri\mh_04_ec_02.b3d)
+Structure.freeobj (778) (bpm3\allomas\04ecseri\mh_04_ec_03.b3d)
+Structure.freeobj (779) (bpm3\allomas\04ecseri\mh_04_ec_04.b3d)
+Structure.freeobj (780) (bpm3\allomas\04ecseri\mh_04_ec_05.b3d)
+Structure.freeobj (800) (bpm3\allomas\03pottyos\mh_03_po_00.b3d)
+Structure.freeobj (801) (bpm3\allomas\03pottyos\mh_03_po_01.b3d)
+Structure.freeobj (802) (bpm3\allomas\03pottyos\mh_03_po_02.b3d)
+Structure.freeobj (803) (bpm3\allomas\03pottyos\mh_03_po_03.b3d)
+Structure.freeobj (804) (bpm3\allomas\03pottyos\mh_03_po_04.b3d)
+Structure.freeobj (805) (bpm3\allomas\03pottyos\mh_03_po_05.b3d)
+Structure.freeobj (825) (bpm3\allomas\02hatar\mh_02_ha_10.b3d)
+Structure.freeobj (826) (bpm3\allomas\02hatar\mh_02_ha_11.b3d)
+Structure.freeobj (827) (bpm3\allomas\02hatar\mh_02_ha_12.b3d)
+Structure.freeobj (828) (bpm3\allomas\02hatar\mh_02_ha_13.b3d)
+Structure.freeobj (829) (bpm3\allomas\02hatar\mh_02_ha_14.b3d)
+Structure.freeobj (830) (bpm3\allomas\02hatar\mh_02_ha_15.b3d)
+Structure.freeobj (831) (bpm3\allomas\02hatar\mh_02_ha_16.b3d)
+Structure.freeobj (832) (bpm3\allomas\02hatar\mh_02_ha_17.b3d)
+Structure.freeobj (833) (bpm3\allomas\02hatar\mh_02_ha_18.b3d)
+Structure.freeobj (834) (bpm3\allomas\02hatar\mh_02_ha_19.b3d)
+Structure.freeobj (835) (bpm3\allomas\02hatar\mh_02_ha_20.b3d)
+Structure.freeobj (852) (bpm3\allomas\01kk\mh_01_kk_02.b3d)
+Structure.freeobj (853) (bpm3\allomas\01kk\mh_01_kk_03.b3d)
+Structure.freeobj (854) (bpm3\allomas\01kk\mh_01_kk_04.b3d)
+Structure.freeobj (855) (bpm3\allomas\01kk\mh_01_kk_05.b3d)
+Structure.freeobj (856) (bpm3\allomas\01kk\mh_01_kk_06.b3d)
+Structure.freeobj (857) (bpm3\allomas\01kk\mh_01_kk_07.b3d)
+Structure.freeobj (860) (bpm3\allomas\01kk\mh_01_kk_kihuzo3a.b3d)
+Structure.freeobj (861) (bpm3\allomas\01kk\mh_01_kk_peron0.b3d)
+Structure.freeobj (862) (bpm3\allomas\01kk\mh_01_kk_peron3.b3d)
+Structure.freeobj (863) (bpm3\allomas\01kk\mh_01_kk_peron800.b3d)
+Structure.freeobj (866) (bpm3\allomas\01kk\mh_01_kk_peronkorlat.b3d)
+Structure.freeobj (867) (bpm3\allomas\01kk\mh_01_kk_peronkorlat800.b3d)
+Structure.freeobj (871) (bpm3\allomas\01kk\mh_01_kk_bak1.b3d)
+Structure.freeobj (872) (bpm3\allomas\01kk\mh_01_kk_bak2.b3d)
+Structure.freeobj (873) (bpm3\allomas\01kk\mh_01_kk_bak3.b3d)
+Structure.freeobj (875) (bpm3\allomas\01kk\mh_01_kk_zarofal.b3d)
+Structure.freeobj (881) (bpm3\allomas\01kk\mh_01_kk_01.b3d)
+Structure.freeobj (882) (bpm3\allomas\01kk\mh_01_kk_01_mgl.b3d)
+Structure.freeobj (400) (bpm3\jelzok\stop.b3d)
+Structure.freeobj (402) (bpm3\jelzok\fekezes.b3d)
+Structure.freeobj (403) (bpm3\jelzok\fekezes_f.b3d)
+Structure.freeobj (404) (bpm3\jelzok\fekezes_m.b3d)
+Structure.freeobj (405) (bpm3\jelzok\vontat_ki.b3d)
+Structure.freeobj (407) (bpm3\jelzok\vontat_cs.b3d)
+Structure.freeobj (408) (bpm3\jelzok\vontat_nem.b3d)
+Structure.freeobj (410) (bpm3\jelzok\vonathossz.b3d)
+Structure.freeobj (411) (bpm3\jelzok\stop_10.b3d)
+Structure.freeobj (412) (bpm3\jelzok\stop_20.b3d)
+Structure.freeobj (413) (bpm3\jelzok\bizthatar.b3d)
+Structure.freeobj (415) (bpm3\jelzok\engedelykeres.b3d)
+Structure.freeobj (417) (bpm3\jelzok\vontat81.b3d)
+Structure.freeobj (420) (bpm3\jelzok\lassujel.b3d)
+Structure.freeobj (427) (bpm3\jelzok\lassu70.b3d)
+Structure.freeobj (441) (bpm3\jelzok\sebesseg33.b3d)
+Structure.freeobj (442) (bpm3\jelzok\sebesseg37.b3d)
+Structure.freeobj (443) (bpm3\jelzok\sebesseg45.b3d)
+Structure.freeobj (446) (bpm3\jelzok\sebesseg53.b3d)
+Structure.freeobj (449) (bpm3\jelzok\sebesseg59.b3d)
+Structure.freeobj (450) (bpm3\jelzok\sebesseg60.b3d)
+Structure.freeobj (452) (bpm3\jelzok\sebesseg62.b3d)
+Structure.freeobj (454) (bpm3\jelzok\sebesseg65.b3d)
+Structure.freeobj (455) (bpm3\jelzok\sebesseg67.b3d)
+Structure.freeobj (456) (bpm3\jelzok\sebesseg69.b3d)
+Structure.freeobj (457) (bpm3\jelzok\sebesseg70.b3d)
+Structure.freeobj (458) (bpm3\jelzok\sebesseg71.b3d)
+Structure.freeobj (459) (bpm3\jelzok\sebesseg72.b3d)
+Structure.freeobj (460) (bpm3\jelzok\sebesseg74.b3d)
+Structure.freeobj (1051) (bpm3\sin\betonalj.b3d)
+Structure.freeobj (1101) (bpm3\sin\v01_r.b3d)
+Structure.freeobj (1102) (bpm3\sin\v02_r.b3d)
+Structure.freeobj (1103) (bpm3\sin\v03_l.b3d)
+Structure.freeobj (1104) (bpm3\sin\v04_l.b3d)
+Structure.freeobj (1105) (bpm3\sin\v05_l.b3d)
+Structure.freeobj (1106) (bpm3\sin\v06_l.b3d)
+Structure.freeobj (1108) (bpm3\sin\v08_l.b3d)
+Structure.freeobj (1111) (bpm3\sin\v11_l.b3d)
+Structure.freeobj (1112) (bpm3\sin\v12_r.b3d)
+Structure.freeobj (1115) (bpm3\sin\v15_l.b3d)
+Structure.freeobj (1118) (bpm3\sin\v18_r.b3d)
+Structure.freeobj (1119) (bpm3\sin\v19_r.b3d)
+Structure.freeobj (1120) (bpm3\sin\v20_l.b3d)
+Structure.freeobj (1121) (bpm3\sin\v21_l.b3d)
+Structure.freeobj (1122) (bpm3\sin\v22_l.b3d)
+Structure.freeobj (1123) (bpm3\sin\v23_l.b3d)
+Structure.freeobj (1124) (bpm3\sin\v24_r.b3d)
+Structure.freeobj (1125) (bpm3\sin\v25_r.b3d)
+Structure.freeobj (1126) (bpm3\sin\v26_l.b3d)
+Structure.freeobj (1127) (bpm3\sin\v27_l.b3d)
+Structure.freeobj (1130) (bpm3\sin\v30_r.b3d)
+Structure.freeobj (1131) (bpm3\sin\v31_r.b3d)
+Structure.freeobj (1132) (bpm3\sin\v32_l.b3d)
+Structure.freeobj (1134) (bpm3\sin\v34_r.b3d)
+Structure.freeobj (1135) (bpm3\sin\v35_l.b3d)
+Structure.freeobj (1137) (bpm3\sin\v37_l.b3d)
+Structure.freeobj (1138) (bpm3\sin\v38_l.b3d)
+Structure.freeobj (1139) (bpm3\sin\v39_r.b3d)
+Structure.freeobj (1140) (bpm3\sin\v40_r.b3d)
+Structure.freeobj (1141) (bpm3\sin\v41_r.b3d)
+Structure.freeobj (1143) (bpm3\sin\v43_l.b3d)
+Structure.freeobj (1151) (bpm3\sin\aknavege.b3d)
+Structure.freeobj (1161) (bpm3\sin\r750_avr_l.b3d; híd)
+Structure.freeobj (1162) (bpm3\sin\r750_avr_r.b3d; híd)
+Structure.freeobj (1163) (bpm3\sin\egyenes_avr_l.b3d; híd AVR-sz?nyeg)
+Structure.freeobj (1164) (bpm3\sin\r300_hid.b3d; híd közép)
+Structure.freeobj (1165) (bpm3\sin\l1200al_allomas.b3d; határ középhez)
+Structure.freeobj (1172) (bpm3\sin\l550fl_fh.b3d; ferihegyi útJ)
+Structure.freeobj (1181) (bpm3\sin\kk1_vege.b3d)
+Structure.freeobj (1351) (bpm3\felszin\alagut_bev_01.b3d)
+Structure.freeobj (1352) (bpm3\felszin\alagut_bev_02.b3d)
+Structure.freeobj (1353) (bpm3\felszin\alagut_bev_03.b3d)
+Structure.freeobj (1354) (bpm3\felszin\alagut_bev_04.b3d)
+Structure.freeobj (1355) (bpm3\felszin\alagut_bev_05.b3d)
+Structure.freeobj (1356) (bpm3\felszin\alagut_bev_06.b3d)
+Structure.freeobj (1357) (bpm3\felszin\alagut_bev_07.b3d)
+Structure.freeobj (1358) (bpm3\felszin\alagut_bev_08.b3d)
+Structure.freeobj (1361) (bpm3\felszin\alagut_kiv_01.b3d)
+Structure.freeobj (1362) (bpm3\felszin\alagut_kiv_02.b3d)
+Structure.freeobj (1363) (bpm3\felszin\alagut_kiv_03.b3d)
+Structure.freeobj (1364) (bpm3\felszin\alagut_kiv_04.b3d)
+Structure.freeobj (1365) (bpm3\felszin\alagut_kiv_05.b3d)
+Structure.freeobj (1366) (bpm3\felszin\alagut_kiv_06.b3d)
+Structure.freeobj (1367) (bpm3\felszin\alagut_kiv_07.b3d)
+Structure.freeobj (1368) (bpm3\felszin\alagut_kiv_08.b3d)
+Structure.freeobj (1369) (bpm3\felszin\alagut_kiv_09.b3d)
+Structure.freeobj (1370) (bpm3\felszin\alagut_kiv_10.b3d)
+Structure.freeobj (1371) (bpm3\felszin\gyorsf_00.b3d)
+Structure.freeobj (1376) (bpm3\felszin\gyorsf_06.b3d)
+Structure.freeobj (1377) (bpm3\felszin\gyorsf_07.b3d)
+Structure.freeobj (1378) (bpm3\felszin\gyorsf_08.b3d)
+Structure.freeobj (1379) (bpm3\felszin\gyorsf_09.b3d)
+Structure.freeobj (1380) (bpm3\felszin\gyorsf_10.b3d)
+Structure.freeobj (1381) (bpm3\felszin\gyorsf_11.b3d)
+Structure.freeobj (1391) (bpm3\felszin\sibrik_f.b3d)
+Structure.freeobj (1434) (bpm3\felszin\koer_torony_4225.b3d)
+Structure.freeobj (2001) (bpm3\targyak\tartooszlop.b3d)
+Structure.freeobj (2011) (bpm3\targyak\eeutka.b3d)
+Structure.freeobj (2012) (bpm3\targyak\eeutkb.b3d)
+Structure.freeobj (2031) (bpm3\targyak\utkozo\utkozo.b3d)
+Structure.freeobj (2051) (bpm3\targyak\jelzooszlopaf.b3d)
+Structure.freeobj (2052) (bpm3\targyak\jelzooszlopam.b3d)
+Structure.freeobj (2053) (bpm3\targyak\jelzooszlopaml.b3d)
+Structure.freeobj (2062) (bpm3\signals\signal_2_0.b3d)
+Structure.freeobj (2063) (bpm3\signals\signal_3_0.b3d)
+Structure.freeobj (2064) (bpm3\signals\signal_4_0.b3d)
+Structure.freeobj (2072) (bpm3\signals\signal_2t_0.b3d)
+Structure.freeobj (2073) (bpm3\signals\signal_3t_0.b3d)
+Structure.freeobj (2074) (bpm3\signals\signal_4t_0.b3d)
+Structure.freeobj (3012) (bpm3\jarmu\szam_3012.b3d)
+Structure.freeobj (3013) (bpm3\jarmu\szam_3013.b3d)
+Structure.freeobj (3014) (bpm3\jarmu\szam_3014.b3d)
+Structure.freeobj (3015) (bpm3\jarmu\szam_3015.b3d)
+Structure.freeobj (3024) (bpm3\jarmu\szam_3024.b3d)
+Structure.freeobj (3025) (bpm3\jarmu\szam_3025.b3d)
+Structure.freeobj (3026) (bpm3\jarmu\szam_3026.b3d)
+Structure.freeobj (3027) (bpm3\jarmu\szam_3027.b3d)
+Structure.freeobj (3076) (bpm3\jarmu\szam_3076.b3d)
+Structure.freeobj (3077) (bpm3\jarmu\szam_3077.b3d)
+Structure.freeobj (3078) (bpm3\jarmu\szam_3078.b3d)
+Structure.freeobj (3079) (bpm3\jarmu\szam_3079.b3d)
+Structure.freeobj (3092) (bpm3\jarmu\szam_3092.b3d)
+Structure.freeobj (3093) (bpm3\jarmu\szam_3093.b3d)
+Structure.freeobj (3094) (bpm3\jarmu\szam_3094.b3d)
+Structure.freeobj (3095) (bpm3\jarmu\szam_3095.b3d)
+Structure.freeobj (3104) (bpm3\jarmu\szam_3104.b3d)
+Structure.freeobj (3105) (bpm3\jarmu\szam_3105.b3d)
+Structure.freeobj (3106) (bpm3\jarmu\szam_3106.b3d)
+Structure.freeobj (3107) (bpm3\jarmu\szam_3107.b3d)
+Structure.freeobj (3243) (bpm3\jarmu\szam_0243.b3d)
+Structure.freeobj (3244) (bpm3\jarmu\szam_0244.b3d)
+Structure.freeobj (3245) (bpm3\jarmu\szam_0245.b3d)
+Structure.freeobj (3246) (bpm3\jarmu\szam_0246.b3d)
+Structure.freeobj (3247) (bpm3\jarmu\szam_0247.b3d)
+Structure.freeobj (3248) (bpm3\jarmu\szam_0248.b3d)
+Structure.freeobj (3261) (bpm3\jarmu\szam_0261.b3d)
+Structure.freeobj (3262) (bpm3\jarmu\szam_0262.b3d)
+Structure.freeobj (3263) (bpm3\jarmu\szam_0263.b3d)
+Structure.freeobj (3264) (bpm3\jarmu\szam_0264.b3d)
+Structure.freeobj (3265) (bpm3\jarmu\szam_0265.b3d)
+Structure.freeobj (3266) (bpm3\jarmu\szam_0266.b3d)
+Structure.freeobj (3306) (bpm3\jarmu\szam_0306.b3d)
+Structure.freeobj (3307) (bpm3\jarmu\szam_0307.b3d)
+Structure.freeobj (3312) (bpm3\jarmu\szam_0312.b3d)
+Structure.freeobj (3313) (bpm3\jarmu\szam_0313.b3d)
+Structure.freeobj (3338) (bpm3\jarmu\szam_0338.b3d)
+Structure.freeobj (3339) (bpm3\jarmu\szam_0339.b3d)
+Structure.freeobj (3346) (bpm3\jarmu\szam_0346.b3d)
+Structure.freeobj (3347) (bpm3\jarmu\szam_0347.b3d)
+Structure.freeobj (3352) (bpm3\jarmu\szam_0352.b3d)
+Structure.freeobj (3353) (bpm3\jarmu\szam_0353.b3d)
+Structure.freeobj (3522) (bpm3\jarmu\ev3_2_b1.b3d)
+Structure.freeobj (3523) (bpm3\jarmu\ev3_2_b2.b3d)
+Structure.freeobj (3524) (bpm3\jarmu\ev3_2_c1.b3d)
+Structure.freeobj (3525) (bpm3\jarmu\ev3_2_c2.b3d)
+Structure.freeobj (3526) (bpm3\jarmu\ev3_lte_1.b3d)
+Structure.freeobj (3527) (bpm3\jarmu\ev3_lte_2.b3d)
+Structure.freeobj (3528) (bpm3\jarmu\ev3_lth_1.b3d)
+Structure.freeobj (3529) (bpm3\jarmu\ev3_lth_2.b3d)
+Structure.freeobj (3602) (bpm3\jarmu\81-717_1_b.b3d)
+Structure.freeobj (3603) (bpm3\jarmu\81-717_1_c.b3d)
+Structure.freeobj (3605) (bpm3\jarmu\81-717_2_b.b3d)
+Structure.freeobj (3606) (bpm3\jarmu\81-717_2_c.b3d)
+Structure.freeobj (3608) (bpm3\jarmu\81-717_3_b.b3d)
+Structure.freeobj (3609) (bpm3\jarmu\81-717_3_c.b3d)
+Structure.freeobj (3617) (bpm3\jarmu\81-717_3_as_1.b3d)
+Structure.freeobj (3618) (bpm3\jarmu\81-717_3_as_2.b3d)
+Structure.freeobj (3632) (bpm3\jarmu\81-714_1_b.b3d)
+Structure.freeobj (3633) (bpm3\jarmu\81-714_1_c.b3d)
+Structure.freeobj (3635) (bpm3\jarmu\81-714_2_b.b3d)
+Structure.freeobj (3636) (bpm3\jarmu\81-714_2_c.b3d)
+Structure.freeobj (3638) (bpm3\jarmu\81-714_3_as.b3d)
+Structure.freeobj (3639) (bpm3\jarmu\81-714_3_b.b3d)
+Structure.freeobj (3640) (bpm3\jarmu\81-714_3_c.b3d)
+Structure.freeobj (3691) (bpm3\jarmu\81-717_v_123.b3d)
+With Texture
+Texture.background (0) (bpm3\back1.bmp)
+Texture.background (1) (bpm3\back2.bmp)
+Texture.background (2) (bpm3\back3.bmp)
+With Track
+0
+.Accuracy 2
+.adhesion 120
+.Height 1.5
+.Back 0
+.railtype 0;9
+9875
+.pitch 1
+.curve 650;33
+.railtype 0;187
+.railstart 1;-4.4;0;189
+.wall 0;1;10
+.wall 1;-1;10
+9901
+.freeobj 0;120;-2.2;0;180.000
+9925
+.freeobj 0;115;-2.2;0;-182.204
+9950
+.freeobj 0;115;-2.2;0;-182.204
+9975
+.freeobj 0;115;-2.2;0;-182.204
+10000
+.freeobj 0;115;-2.2;0;-182.204
+10025
+.freeobj 0;115;-2.2;0;-182.204
+10075
+.Limit 40;0
+.freeobj 1;112;0;0;-182.204
+.freeobj 1;113;2.20;0;-182.204
+10100
+.freeobj 1;112; 0;0;-182.204
+.freeobj 0;113;-1.55;0;-182.204
+.freeobj 1;113; 1.55;0;-182.204
+10125
+.freeobj 1;112; 0;0;-182.204
+.freeobj 0;113;-1.55;0;-182.204
+.freeobj 1;113; 1.55;0;-182.204
+10150
+.freeobj 1;112; 0;0;-181.102
+.freeobj 0;113;-1.55;0;-181.102
+.freeobj 1;113; 1.55;0;-181.102
+.curve 0;0
+.railtype 0;23
+.railtype 1;24
+.freeobj 0;110
+.freeobj 0;111;-2.20
+.pitch 2
+10171
+.freeobj 0;400
+.freeobj 1;400
+10175
+.railtype 0;24
+.railstart 4;-4.4;0;9
+.rail 1;-4.4;0;9
+.freeobj 1;1143
+10177
+.freeobj 1;2073;1.9;2.0
+.freeobj 1;2052;1.9
+10180
+.Signal 3;179B;1.9;3.1;2
+.freeobj 0;2052;1.9
+10185
+.freeobj 0;2001;-2.2;-1.6
+.freeobj 0;408;-2.2;0.2
+10193
+.freeobj 0;413;-1.5
+10200
+.railtype 0;9
+.rail 1;-4.4;0;23
+.rail 4;-2.2;0;9
+10207
+.freeobj 1;413;1.5
+10225
+.railtype 0;24
+.railend 4;0;0;9
+.freeobj 0;1143;0;0;180
+.freeobj 0;1163;0.69
+10249
+.freeobj 0;408;1.7;2;0
+10250
+.railtype 0;9
+.freeobj 0;1141;0;0;0
+.rail 1;-4.4;0;23
+.rail 4;0;0;9
+10268
+.freeobj 1;413;1.5
+10275
+.railtype 0;24
+.rail 1;-4.4;0;9
+.rail 4;-2.2;0;9
+10282
+.freeobj 0;413;-1.5
+10300
+.freeobj 0;1141;-4.4;0;180
+.railtype 0;23
+.rail 1;-4.4;0;24
+.railend 4;-4.4;0;9
+.wall 0;1;12
+.wall 1;-1;12
+10315
+.Signal 2;177B;1.9;3.0;2
+.freeobj 0;2052;1.9
+10317
+.freeobj 0;402;1.7;3.0;0
+10325
+.wallend 0
+.wallend 1
+.railtype 0;29
+.railtype 1;25
+10326
+.freeobj 0;108
+10331
+.freeobj 1;3603
+.freeobj 1;3306
+.freeobj 1;3691
+10349
+.freeobj 1;100;0;0;180
+10350
+.railtype 0;26
+.freeobj 1;105;0;0;180
+10351
+.freeobj 0;108
+.freeobj 0;109
+10352
+.freeobj 0;81;4.1
+10369
+.freeobj 1;3632;0;0;180
+.freeobj 1;3012;0;0;180
+10370
+.freeobj 0;83;3.8
+10374
+.freeobj 1;100;0;0;180
+10375
+.freeobj 1;104;0;0;180
+10376
+.freeobj 0;108
+.freeobj 0;109
+10380
+.freeobj 0;82;4.3
+10388
+.freeobj 1;3632;0;0;180
+.freeobj 1;3013;0;0;180
+10389
+.freeobj 0;81;4.4
+10399
+.freeobj 1;100;0;0;180
+10400
+.freeobj 1;103;0;0;180
+10401
+.freeobj 0;108
+.freeobj 0;109
+10405
+.freeobj 0;83;4.5
+10407
+.freeobj 1;3632;0;0;180
+.freeobj 1;3014;0;0;180
+10410
+.freeobj 0;81;4.2
+10416
+.freeobj 0;82;3.9
+10424
+.freeobj 1;100;0;0;180
+10425
+.railtype 1;28
+.freeobj 1;102;0;0;180
+.freeobj 1;106;0;0;180
+10426
+.freeobj 1;3632;0;0;180
+.freeobj 1;3015;0;0;180
+.freeobj 0;108
+.freeobj 0;109
+10432
+.freeobj 0;81;4.0
+10440
+10444
+.freeobj 0;82;4.2
+10445
+.freeobj 0;400
+.freeobj 1;3602;0;0;180
+.freeobj 1;3307;0;0;180
+10449
+.freeobj 1;100;0;0;180
+.freeobj 1;101;0;0;180
+10449.40
+10450
+.freeobj 0;107
+.wall 0;1;11
+.wall 1;-1;11
+.curve -700;21
+.railtype 0;141
+.rail 1;-4.4;0;152
+Track.marker (BpM3\markers\20B.bmp; 125)
+.Limit 62;0
+10455
+.freeobj 0;107
+10456
+.Signal 3;175;1.9;3.1;2
+.freeobj 0;2052;1.9
+.freeobj 0;452;1.65;0.9
+10460
+.freeobj 0;107
+10475
+.rail 1;-4.24;0;152
+.wall 0;1;10
+.wall 1;-1;10
+10500
+.rail 1;-3.75;0;130
+10525
+.rail 1;-3.4;0;21
+.curve 0;0
+.railtype 0;20
+10600
+.curve -700;36
+.railtype 0;141
+.railtype 1;142
+10625
+.pitch 7
+10675
+.curve 0;0
+.railtype 0;20
+.railtype 1;21
+10725
+.pitch 10
+10760
+.Signal 3;173;1.9;3.1;2
+.freeobj 0;2052;1.9
+10775
+.curve -450;47
+.railtype 0;125
+.railtype 1;126
+10968
+.Signal 3;171U;1.9;3.1;2
+.freeobj 0;2052;1.9
+11000
+.curve 0;0
+.railtype 0;20
+.railtype 1;21
+11008
+.freeobj 0;402;1.7;1.8
+11025
+.pitch 4
+11100
+.pitch -1
+.wall 0;1;12
+.wall 1;-1;12
+11120
+.Signal 2;169U;1.9;3.1;2
+.freeobj 0;2052;1.9
+11125
+Track.Sta (Darnagul; 16.0056; 16.0116; ; 1; 1; ; ; 10; 85; )
+.pitch -3
+.wallend 0
+.wallend 1
+.railtype 0;29
+.railtype 1;25
+11131
+.freeobj 1;3603
+.freeobj 1;3312
+.freeobj 1;3691
+11149
+.freeobj 1;125;0;0;180
+11150
+.railtype 0;26
+.freeobj 1;130;0;0;180
+11153
+.freeobj 0;82;4.4
+.freeobj 1;83;-4.4
+11165
+.freeobj 0;82;4.2
+11169
+.freeobj 1;3632;0;0;180
+.freeobj 1;3024;0;0;180
+11174
+.freeobj 1;125;0;0;180
+11175
+.freeobj 1;129;0;0;180
+11180
+.freeobj 0;82;3.9
+.freeobj 1;83;-4.3
+11188
+.freeobj 1;3632;0;0;180
+.freeobj 1;3025;0;0;180
+11196
+.freeobj 0;81;3.8
+11199
+.freeobj 1;125;0;0;180
+11200
+.freeobj 1;128;0;0;180
+11207
+.freeobj 1;3632;0;0;180
+.freeobj 1;3026;0;0;180
+11208
+.freeobj 0;81;4.2
+11222
+.freeobj 0;83;4.5
+.freeobj 1;82;-4.2
+11224
+.freeobj 1;125;0;0;180
+11225
+.railtype 1;28
+.freeobj 1;127;0;0;180
+.freeobj 0;131
+11226
+.freeobj 1;3632;0;0;180
+.freeobj 1;3027;0;0;180
+11231
+.freeobj 0;81;3.8
+.freeobj 1;82;-4.0
+11241
+11242
+.freeobj 0;82;4.1
+11245
+.freeobj 1;3602;0;0;180
+.freeobj 1;3313;0;0;180
+11246
+.Stop 0
+.freeobj 0;400
+11249
+.freeobj 1;125;0;0;180
+.freeobj 1;126;0;0;180
+11249.40
+11250
+.wall 0;1;11
+.wall 1;-1;11
+.railtype 0;20
+.railtype 1;21
+Track.marker (BpM3\markers\19U.bmp; 125)
+Track.announce (azadlig_n.wav)
+.Limit 74;0
+.pitch -11
+11256
+.Signal 3;167;1.9;3.1;2
+.freeobj 0;2052;1.9
+.freeobj 0;460;1.65;0.9
+11275
+.wall 0;1;10
+.wall 1;-1;10
+.curve -500;58
+.pitch -22
+.railtype 0;129
+.railtype 1;130
+11300
+.pitch -30
+11425
+.pitch -18
+11450
+.pitch -7
+11475
+.pitch 2
+11580
+.Signal 3;165;1.9;3.1;2
+.freeobj 0;2052;1.9
+11600
+.pitch -3
+11725
+.curve 0;0
+.railtype 0;20
+.railtype 1;21
+11750
+.pitch 1
+11775
+.pitch 2
+11825
+.pitch 3
+11875
+.curve -2000;19
+.railtype 0;159
+.railtype 1;160
+11893
+.Signal 3;163;1.9;3.1;2
+.freeobj 0;2052;1.9
+12000
+.curve 0;0
+.railtype 0;20
+.railtype 1;21
+12075
+.pitch 4
+.curve 2000;19
+.railtype 0;161
+.railtype 1;162
+12150
+.freeobj 0;402;1.7;2.1
+.curve 0;0
+.railtype 0;20
+.railtype 1;21
+12195
+.Signal 3;161Gy;1.9;3.1;2
+.freeobj 0;2052;1.9
+12200
+.pitch 2
+12300
+.curve 4000;6
+.railtype 0;168
+.rail 1;-3.4
+12325
+.rail 1;-3.5
+12335
+.Signal 3;159Gy;1.9;3.1;2
+.freeobj 0;2052;1.9
+12350
+.curve 0;0
+.railtype 0;20
+.rail 1;-3.73
+.pitch 3
+12375
+.curve -4000;6
+.railtype 0;167
+.rail 1;-4.07
+.pitch -1
+12400
+.rail 1;-4.3
+.pitch -3
+12425
+.curve 0;0
+.railtype 0;20
+.rail 1;-4.4
+.wall 0;1;12
+.wall 1;-1;12
+12438
+.Signal 2;157Gy;1.9;3.0;2
+.freeobj 0;2052;1.9
+12449
+.freeobj 1;157;0;0;180
+12450
+Track.announce (azadlig.wav)
+Track.Sta (Azadlig Prospekti; 16.0253; 16.0313; ; 1; 1; ; ; 10; 85; )
+.wallend 0
+.wallend 1
+.railtype 0;29
+.railtype 1;25
+12474
+.freeobj 1;150;0;0;180
+12475
+.railtype 0;26
+.freeobj 1;156;0;0;180
+12476
+.freeobj 0;83;4.2
+.freeobj 1;82;-3.8
+12495
+.freeobj 0;81;3.9
+12499
+.freeobj 1;150;0;0;180
+12500
+.freeobj 1;155;0;0;180
+12508
+.freeobj 0;81;4.3
+.freeobj 1;83;-4.2
+12524
+.freeobj 1;150;0;0;180
+12525
+.freeobj 1;154;0;0;180
+.freeobj 0;83;4.0
+12540
+.freeobj 0;82;4.1
+.freeobj 1;83;-4.3
+12549
+.freeobj 1;150;0;0;180
+12550
+.railtype 1;28
+.freeobj 1;153;0;0;180
+12560
+.freeobj 0;82;4.0
+12567
+12570
+.freeobj 0;81;4.3
+.freeobj 1;82;-3.9
+12572
+.Stop 0
+.freeobj 0;400
+12574
+.freeobj 1;152;0;0;180
+.freeobj 1;150;0;0;180
+12574.40
+12575
+.wall 0;1;11
+.wall 1;-1;11
+.railtype 0;20
+.railtype 1;21
+Track.marker (BpM3\markers\18Gy.bmp; 125)
+Track.announce (nasimi_n.wav)
+.Limit 70;0
+.pitch -2
+12580
+.Signal -2;155;1.9;3.1;2
+.freeobj 0;2052;1.9
+.freeobj 0;457;1.65;0.9
+12599
+.freeobj 1;151;0;0;180
+12600
+.wall 0;1;10
+.wall 1;-1;10
+12825
+.pitch 3
+12883
+.Signal 3;153;1.9;3.1;2
+.freeobj 0;2052;1.9
+12975
+.pitch 11
+.railtype 0;21
+.railtype 1;20
+12985
+.freeobj 0;181
+12990
+.freeobj 0;181
+12995
+.freeobj 0;181
+13000
+.pitch 20
+13145
+.Signal -4;151;1.9;3.0;2
+.freeobj 0;2052;1.9
+13150
+.curve -3000;11
+.railtype 0;164
+.railtype 1;163
+13200
+.curve -2000;17
+.railtype 0;160
+.railtype 1;159
+13225
+.pitch 12
+13250
+.curve 0;0
+.railtype 0;21
+.railtype 1;20
+.pitch 5
+.freeobj 0;182
+13275
+.pitch -5
+13300
+.pitch -12
+.railtype 1;21
+13325
+.pitch -20
+.railtype 1;20
+13350
+.curve 3000;11
+.railtype 0;166
+.railtype 1;165
+13375
+.railtype 0;165
+13379
+.Signal -4;149Fo;1.9;3.1;2
+.freeobj 0;2052;1.9
+13384
+.freeobj 0;402;1.7;1.8
+13400
+.railtype 0;166
+13450
+.curve 2000;17
+.railtype 0;162
+.railtype 1;161
+13500
+.curve 0;0
+.railtype 0;21
+.railtype 1;20
+13505
+.freeobj 0;181
+13510
+.freeobj 0;181
+13515
+.freeobj 0;181
+13525
+.pitch -11
+.railtype 0;20
+.railtype 1;21
+13535
+.Signal -4;147Fo;1.9;3.1;2
+.freeobj 0;2052;1.9
+13550
+.pitch -3
+13600
+.wall 0;1;12
+.wall 1;-1;12
+13618
+.Signal 2;145Fo;1.9;3.0;2
+.freeobj 0;2052;1.9
+13625
+Track.announce (nasimi.wav)
+Track.Sta (Nasimi; 16.0441; 16.0500; ; 1; 1; ; ; 10; 90; )
+.wallend 0
+.wallend 1
+.railtype 0;29
+.railtype 1;25
+13631
+.freeobj 1;3261
+13649
+.freeobj 1;175;0;0;180
+13650
+.railtype 0;26
+.freeobj 1;180;0;0;180
+.freeobj 1;3522
+.freeobj 1;3262
+.freeobj 1;3526
+13651
+.freeobj 0;82;4.3
+.freeobj 1;81;-4.0
+13669
+.freeobj 1;3522
+.freeobj 1;3263
+13674
+.freeobj 1;175;0;0;180
+13675
+.freeobj 1;179;0;0;180
+13680
+.freeobj 0;81;4.6
+.freeobj 1;83;-3.9
+13688
+.freeobj 1;3522
+.freeobj 1;3264
+13699
+.freeobj 1;175;0;0;180
+13700
+.freeobj 1;178;0;0;180
+13707
+.freeobj 1;3522
+.freeobj 1;3265
+13715
+.freeobj 0;82;4.1
+.freeobj 1;83;-4.7
+13724
+.freeobj 1;175;0;0;180
+13725
+.railtype 1;28
+.freeobj 1;177;0;0;180
+13726
+.freeobj 1;3522
+13740
+.freeobj 0;81;4.3
+.freeobj 1;83;-3.9
+13742
+13745
+.freeobj 1;3523
+.freeobj 1;3266;0;0;180
+.freeobj 1;3529
+13747
+.Stop 0
+.freeobj 0;400
+13748
+13749
+.freeobj 1;175;0;0;180
+.freeobj 1;176;0;0;180
+13750
+.ground 30
+.wall 0;1;11
+.wall 1;-1;11
+.railtype 0;20
+Track.marker (BpM3\markers\17Fo.bmp; 125)
+Track.announce (memar_n.wav)
+.Limit 59;0
+.rail 1;-4.4;0;21
+.pitch 1
+13754
+.Signal -2;143;1.9;3.1;2
+.freeobj 0;2052;1.9
+.freeobj 0;449;1.65;0.9
+13775
+.pitch 6
+.wall 0;1;10
+.wall 1;-1;10
+.rail 1;-4.4;0;185
+13800
+.rail 1;-4.65;0;185
+13825
+.rail 1;-5.4;0;21
+13850
+.rail 1;-6.4;0;21
+.pitch 5
+13875
+.rail 1;-7.4;0;186
+13900
+.rail 1;-8.15;0;186
+.pitch 1
+13925
+.rail 1;-8.4;0;21
+13943
+.Signal 3;FA;1.9;3.1;2
+.freeobj 0;2052;1.9
+13950
+.railtype 0;9
+.rail 1;-8.4;0;24
+.railstart 2;-4.1;0;22
+.railstart 3;0;0;9
+.freeobj 0;1139
+.freeobj 2;211;-1.45
+13954
+.freeobj 2;2031;0;0;180
+13968
+.freeobj 2;413;1.5
+13975
+.railtype 0;24
+.railtype 2;9
+.rail 3;-2.05
+.freeobj 2;211;-1.45
+.freeobj 2;213;-2.45
+13982
+.freeobj 0;413;-1.5
+14000
+.railtype 0;23
+.railtype 2;24
+.railend 3;-4.1
+.freeobj 2;1140;0;0;180
+.freeobj 2;211;-1.45
+.freeobj 2;213;-2.45
+14025
+.rail 1;-8.4
+.freeobj 2;211;-1.45
+.freeobj 2;213;-2.45
+14039
+.freeobj 2;3618
+.freeobj 2;3346
+14050
+.freeobj 2;211;-1.45
+.freeobj 2;213;-2.45
+14058
+.freeobj 2;3638;0;0;180
+.freeobj 2;3092
+14075
+.freeobj 2;211;-1.45
+.freeobj 2;213;-2.45
+14077
+.freeobj 2;3638;0;0;180
+.freeobj 2;3093
+14096
+.freeobj 2;3638;0;0;180
+.freeobj 2;3094
+14100
+.rail 1;-8.4;0;23
+.freeobj 1;1163
+.freeobj 2;211;-1.45
+.freeobj 2;213;-2.45
+14101
+.Signal 4;141A;1.9;3.1;2
+.freeobj 0;2052;1.9
+14115
+.freeobj 2;3638;0;0;180
+.freeobj 2;3095
+14125
+.rail 1;-8.4;0;9
+.freeobj 1;1138
+.freeobj 0;212;-1.45
+.freeobj 2;212;-1.45
+.freeobj 2;214;-2.45
+14134
+.freeobj 2;3617;0;0;180
+.freeobj 2;3347
+14140
+.freeobj 2;2052;2.0
+.freeobj 2;2073;2.0;2.0
+14142
+.freeobj 2;413;-1.5
+14150
+.railtype 0;24
+.rail 1;-8.4;0;23
+.rail 2;-4.1;0;9
+14158
+.freeobj 1;413;1.5
+14174
+.freeobj 0;402;1.7;1.8
+14175
+.rail 2;-4.1;0;24
+.freeobj 2;1137;0;0;180
+.freeobj 2;1163;0.69
+14200
+.freeobj 2;1135
+.rail 1;-8.4;0;183
+.rail 2;-4.1;0;9
+.railstart 3;-4.1;0;9
+14202
+.Signal 4;BA;1.9;3.1;2
+.freeobj 0;2052;1.9
+14218
+.freeobj 0;413;-1.5
+14225
+.railtype 0;9
+.rail 1;-7.983;0;183
+.rail 2;-4.1;0;9
+.rail 3;-2.05;0;9
+14234
+.freeobj 2;413;1.8
+14238
+.freeobj 1;413;1.5
+14250
+.railtype 0;23
+.rail 1;-6.733;0;9
+.rail 2;-4.945;0;9
+.railend 3;0;0;9
+.freeobj 0;1135;0;0;180
+.freeobj 0;1164;-4.945;0;-181.95
+.freeobj 0;1163
+14275
+.rail 1;-5.067;0;181
+.railend 2;-5.067;0;9
+.freeobj 1;1134;0;0;180.955
+.freeobj 0;1163
+14300
+.rail 1;-3.817;0;182
+.wall 0;1;12
+.wall 1;-1;12
+.freeobj 1;1162;0;0;181.91
+.freeobj 0;1163
+14318
+.Signal 2;139A;1.9;3.0;2
+.freeobj 0;2052;1.9
+14322
+.freeobj 0;402;1.7;1.7
+14325
+Track.announce (memar.wav)
+Track.Sta (Memar Ajami; 16.0606; 16.0626; ; 1; 1; ; ; 10; 105; )
+.ground 0
+.freeobj 1;1161;0;0;180.955
+.rail 1;-3.4
+.wallend 0
+.wallend 1
+.railtype 0;29
+.railtype 1;25
+.pitch -3
+14336
+.freeobj 0;207
+14349
+.freeobj 1;200;0;0;180
+.freeobj 0;83;3.4
+14350
+.railtype 0;26
+.freeobj 1;205;0;0;180
+14355
+.freeobj 0;81;5.3
+.freeobj 1;82;-4.9
+14362
+.freeobj 0;82;5.0
+.freeobj 1;81;-5.0
+14370
+.freeobj 0;207
+14374
+.freeobj 1;200;0;0;180
+.freeobj 0;81;5.0
+.freeobj 1;83;-5.2
+14375
+.freeobj 1;204;0;0;180
+14385
+.freeobj 0;83;4.8
+.freeobj 1;82;-4.6
+14399
+.freeobj 1;200;0;0;180
+14400
+.freeobj 1;203;0;0;180
+.freeobj 0;81;5.3
+.freeobj 1;83;-5.4
+14405
+.freeobj 0;207
+14419
+.freeobj 0;81;5.8
+.freeobj 1;81;-5.5
+14424
+.freeobj 1;200;0;0;180
+14425
+.railtype 1;28
+.freeobj 1;202;0;0;180
+14428
+.freeobj 0;81;4.7
+.freeobj 1;82;-4.5
+14439
+.freeobj 0;207
+14441
+14445
+.freeobj 0;81;3.6
+.freeobj 1;83;-3.6
+14446
+.Stop 0
+.freeobj 0;400
+14449
+.freeobj 1;200;0;0;180
+.freeobj 1;201;0;0;180
+14449.20
+14450
+.wall 0;1;11
+.wall 1;-1;11
+.railtype 0;20
+.railtype 1;21
+Track.marker (BpM3\markers\16Ah.bmp; 125)
+Track.announce (20-yanvar_n.wav)
+.Limit 67;0
+.pitch -2
+14456
+.Signal 4;137;1.9;3.1;2
+.freeobj 0;2052;1.9
+.freeobj 0;455;1.65;0.9
+14475
+.pitch -4
+.wall 0;1;10
+.wall 1;-1;10
+14500
+.pitch -8
+14516
+.freeobj 0;407;1.7;1.8
+14600
+.pitch -12
+14700
+.pitch -4
+14725
+.pitch 4
+14750
+.pitch 12.8
+14777
+.Signal 4;135;1.9;3.1;2
+.freeobj 0;2052;1.9
+14825
+.pitch 6
+14850
+.pitch -1
+14860
+.freeobj 0;417;1.7;1.8
+14875
+.pitch -6
+14900
+.freeobj 0;405;1.7;1.8
+14925
+.pitch -8
+14968
+.Signal 4;133Do;1.9;3.1;2
+.freeobj 0;2052;1.9
+15000
+.curve 2000;14
+.railtype 0;161
+.railtype 1;162
+.pitch -12
+15055
+.freeobj 0;402;1.7;1.8
+15075
+.curve 0;0
+.railtype 0;20
+.railtype 1;21
+15087
+.Signal 3;131Do;1.9;3.1;2
+.freeobj 0;2052;1.9
+15100
+.rail 1;-3.4;0;160
+.pitch -10
+15125
+.curve -2000;12
+.railtype 0;159
+.rail 1;-3.6;0;160
+15150
+.rail 1;-3.9;0;160
+.pitch -8
+15175
+.rail 1;-4.15;0;21
+15200
+.pitch -4
+.curve 0;0
+.railtype 0;20
+.rail 1;-4.3;0;21
+.wall 0;1;12
+.wall 1;-1;12
+15215
+.Signal 2;129Do;1.9;3.0;2
+.freeobj 0;2052;1.9
+15218
+.freeobj 0;402;1.7;1.0
+15225
+Track.announce (20-yanvar.wav)
+Track.Sta (20 Yanvar; 16.0742; 16.0801; ; 1; 1; ; ; 10; 110; )
+.wallend 0
+.wallend 1
+.railtype 0;29
+.railtype 1;25
+.pitch -3
+15226
+.freeobj 0;232;0;0;0
+15230
+15231
+.freeobj 1;3606
+.freeobj 1;3691
+.freeobj 1;3338
+15249
+.freeobj 1;225;0;0;180
+15250
+.railtype 0;26
+.freeobj 1;230;0;0;180
+15251
+.freeobj 0;83;4.5
+.freeobj 1;83;-4.6
+.freeobj 0;232;0;0;0
+.freeobj 0;233;0;0;0
+15269
+.freeobj 1;3635;0;0;180
+.freeobj 1;3076;0;0;180
+15270
+.freeobj 0;81;4.3
+15274
+.freeobj 1;225;0;0;180
+15275
+.freeobj 1;229;0;0;180
+15276
+.freeobj 0;232;0;0;0
+.freeobj 0;233;0;0;0
+15285
+.freeobj 0;82;4.8
+.freeobj 1;81;-4.2
+15288
+.freeobj 1;3635;0;0;180
+.freeobj 1;3077;0;0;180
+15299
+.freeobj 1;225;0;0;180
+15300
+.freeobj 1;228;0;0;180
+.freeobj 0;81;4.6
+.freeobj 1;82;-4.3
+15301
+.freeobj 1;231;0;0;180
+.freeobj 1;231;22.8;0;180
+.freeobj 0;232;0;0;0
+.freeobj 0;233;0;0;0
+15307
+.freeobj 1;3635;0;0;180
+.freeobj 1;3078;0;0;180
+15312
+.freeobj 0;82;4.9
+.freeobj 1;81;-4.0
+15324
+.freeobj 1;225;0;0;180
+15325
+.railtype 1;28
+.freeobj 1;227;0;0;180
+15326
+.freeobj 1;3635;0;0;180
+.freeobj 1;3079;0;0;180
+.freeobj 0;232;0;0;0
+.freeobj 0;233;0;0;0
+15335
+.freeobj 0;81;4.7
+.freeobj 1;83;-4.7
+15341
+15345
+.freeobj 1;3605;0;0;180
+.freeobj 1;3339;0;0;180
+.freeobj 0;83;4.1
+15346
+.Stop 0
+.freeobj 0;400
+15349
+.freeobj 1;226;0;0;180
+.freeobj 1;225;0;0;180
+15349.40
+15350
+.wall 0;1;11
+.wall 1;-1;11
+.railtype 0;20
+.railtype 1;21
+Track.marker (BpM3\markers\15Do.bmp; 125)
+Track.announce (insaatchilar_n.wav)
+.Limit 67;0
+15356
+.Signal -2;127;1.9;3.0;2
+.freeobj 0;2052;1.9
+.freeobj 0;455;1.65;0.9
+15375
+.wall 0;1;10
+.wall 1;-1;10
+.rail 1;-4.3;0;170
+15400
+.rail 1;-4.269;0;170
+15425
+.rail 1;-4.175;0;21
+15450
+.rail 1;-4.025;0;169
+15475
+.rail 1;-3.931;0;169
+.pitch -4
+15490
+.freeobj 0;407;1.7;1.7
+15500
+.rail 1;-3.9;0;21
+15550
+.pitch -1
+15575
+.pitch 3
+15625
+.Signal -2;125E;1.9;3.0;2
+.freeobj 0;2052;1.9
+15675
+.railtype 1;20
+15695
+.freeobj 0;417;1.7;1.7
+15750
+.freeobj 0;405;1.7;1.7
+15800
+.pitch 2
+15825
+.railtype 0;21
+.rail 1;-3.9;0;9
+.railstart 4;-3.9;0;9
+.freeobj 1;1132
+15835
+.Signal 4;BE;1.9;3.1;2
+.freeobj 0;2052;1.9
+15840
+.freeobj 0;413;-1.5
+15850
+.railtype 0;9
+.rail 1;-3.9;0;20
+.rail 4;-1.95
+15860
+.freeobj 1;413;1.5
+15875
+.railtype 0;21
+.rail 1;-3.9
+.railend 4;0;0;20
+.freeobj 0;1132;0;0;180
+15885
+.freeobj 0;402;1.7;1.7
+15900
+.rail 1;-3.9;0;141
+.railstart 4;0;0;9
+.railtype 0;9
+15925
+.rail 1;-4.35;0;141
+.rail 4;-1.65
+.freeobj 0;1131
+15930
+.freeobj 1;413;1.5
+15948
+.freeobj 0;413;-1.6
+15950
+.railtype 0;21
+.rail 1;-5.7;0;9
+.rail 4;-3.6
+.wall 0;1;10
+.freeobj 0;261
+.freeobj 4;262
+15975
+.railtype 0;20
+.rail 1;-7.5;0;9
+.rail 4;-6.9
+.freeobj 1;1130;0;0;180
+.wall 0;0;12
+.wall 4;1;12
+15988
+.freeobj 0;408;1.7;1.2
+15992
+.Signal 2;123E;1.9;3.0;2
+.freeobj 0;2052;1.9
+15998
+.freeobj 0;402;1.7;1.8
+16000
+Track.announce (insaatchilar.wav)
+Track.Sta (Inshaatchilar; 16.0908; 16.0927; ; -1; 1; ; ; 10; 120; )
+.pitch -3
+.wallend 0
+.wallend 1
+.wallend 4
+.railtype 0;27
+.rail 1;-9.3;0;26
+.railend 4;-9.3
+.freeobj 0;255
+16001
+.freeobj 0;260
+16006
+.freeobj 1;3602
+.freeobj 1;3691
+16015
+.freeobj 0;270;-05.525
+16025
+.railtype 0;25
+.freeobj 0;254
+.freeobj 0;259
+.freeobj 0;270;-05.525
+.rail 1;-10.62
+16027
+.freeobj 0;82;-3.9
+.freeobj 1;81;3.7
+16042
+.freeobj 0;270;-05.525
+16044
+.freeobj 1;3633;0;0;180
+16050
+.rail 1;-11.05
+.freeobj 0;270;-05.525
+16055
+.freeobj 0;81;-3.4
+.freeobj 1;83;3.4
+16063
+.freeobj 1;3633;0;0;180
+16070
+.freeobj 0;82;-3.9
+.freeobj 1;81;3.8
+16074
+.freeobj 0;270;-05.525
+16075
+.freeobj 1;253;0;0;180
+16079
+.freeobj 0;83;-3.4
+.freeobj 1;83;3.5
+16082
+.freeobj 1;3633;0;0;180
+.freeobj 0;270;-05.525
+16099
+.freeobj 0;270;-05.525
+16100
+.rail 1;-11.05
+.freeobj 1;252;0;0;180
+16101
+.freeobj 1;3633;0;0;180
+16102
+.freeobj 0;82;-3.9
+.freeobj 1;83;3.5
+16109
+.freeobj 0;270;-05.525
+16115
+.freeobj 0;83;-3.6
+16116
+16119
+.freeobj 0;81;-3.4
+.freeobj 1;82;3.5
+16120
+.freeobj 1;3603;0;0;180
+16121
+.Stop 0
+.freeobj 0;400
+16124
+.freeobj 1;251;0;0;180
+16124.40
+16125
+.wall 0;0;11
+.wall 1;0;11
+.railtype 0;20
+.railtype 1;21
+Track.marker (BpM3\markers\14E.bmp; 125)
+Track.announce (elmler_n.wav)
+.Limit 45;0
+16131
+.Signal 4;121;1.9;3.1;2
+.freeobj 0;2052;1.9
+.freeobj 0;443;1.65;0.9
+16150
+.wall 0;0;10
+.wall 1;0;10
+.curve -1000;18
+.railtype 0;151
+16180
+.freeobj 0;407;1.7;2.2
+16200
+.curve 0;0
+.railtype 0;20
+.pitch -9
+16225
+.pitch -15
+.freeobj 0;427;1.7;2.1
+.freeobj 0;420;1.7;1.6
+Track.marker (BpM3\markers\lassu70m.bmp; 100)
+.wallend 1
+.railend 1
+.wall 0;0;16
+16250
+.wall 0;0;0
+.freeobj 0;745
+.curve 1000;21
+.railtype 0;153
+.pitch -20
+16275
+.pitch -25
+16285
+.freeobj 0;405;1.9;2.0
+.freeobj 0;417;1.9;1.5
+16300
+.pitch -30
+16485
+.Signal 4;119M;1.9;3.0;2
+.freeobj 0;2052;1.9
+16510
+.freeobj 0;412;2.0;1.8
+16525
+.curve 0;0
+.railtype 0;20
+16658
+.freeobj 0;402;1.9;1.8
+16685
+.Signal 3;117M;1.9;3.0;2
+.freeobj 0;2052;1.9
+16750
+.pitch -20
+.freeobj 0;420;2.2;2;180
+Track.marker (BpM3\markers\lassu_vege.bmp; 50)
+16775
+.pitch -10
+16796
+.freeobj 0;408;1.9;1.5
+16800
+.pitch -3
+.wall 0;0;2
+16814
+.Signal 2;115M;1.9;2.9;2
+.freeobj 0;2052;1.9
+16825
+Track.announce (elmler.wav)
+Track.Sta (Elmler Akademiyasi; 16.1049; 16.1108; ; -1; 1; ; ; 10; 135; )
+.wallend 0
+.railtype 0;27
+.freeobj 0;275
+.freeobj 0;276
+.freeobj 0;281
+16830
+.freeobj 0;282
+16835
+.freeobj 0;282
+16840
+.freeobj 0;282
+16845
+.freeobj 0;282
+16850
+.railtype 0;25
+.freeobj 0;275
+.freeobj 0;277
+.freeobj 0;282
+16853
+.freeobj 0;83;-4.3
+16855
+.freeobj 0;282
+16860
+.freeobj 0;282
+16865
+.freeobj 0;282
+16870
+.freeobj 0;82;-4.0
+.freeobj 0;282
+16875
+.freeobj 0;275
+.freeobj 0;278
+.freeobj 0;282
+16880
+.freeobj 0;282
+16882
+.freeobj 0;81;-4.1
+16885
+.freeobj 0;282
+16890
+.freeobj 0;282
+16895
+.freeobj 0;282
+16898
+.freeobj 0;83;-4.3
+16900
+.freeobj 0;275
+.freeobj 0;279
+.freeobj 0;282
+16905
+.freeobj 0;282
+.freeobj 0;83;-10.3
+16910
+.freeobj 0;282
+.freeobj 0;82;-4.4
+.freeobj 0;81;-5.1
+16915
+.freeobj 0;282
+16920
+.freeobj 0;282
+16924
+.freeobj 0;81;-4.2
+16925
+.freeobj 0;275
+.freeobj 0;280
+.freeobj 0;282
+16930
+.freeobj 0;282
+.freeobj 0;82;-4.7
+16935
+.freeobj 0;282
+16940
+.freeobj 0;282
+16942
+16943
+.freeobj 0;83;-4.9
+16945
+.freeobj 0;283
+.freeobj 0;81;-4.4
+16947
+.Stop 0
+.freeobj 0;400
+16948.45
+16950
+.wall 0;0;1
+.railtype 0;20
+Track.marker (BpM3\markers\13M.bmp; 125)
+Track.announce (nizami_n.wav)
+.Limit 65;0
+16956
+.Signal 4;113;1.9;3.0;2
+.freeobj 0;2052;1.9
+.freeobj 0;454;1.6;1.0
+16975
+.wall 0;0;0
+17025
+.curve -500;50
+.railtype 0;129
+17075
+.pitch -1
+17100
+.pitch 2
+.freeobj 0;407;1.9;1.8
+17175
+.pitch 3
+17290
+.freeobj 0;417;1.9;1.8
+17300
+.curve 0;0
+.railtype 0;20
+17325
+.Signal 4;111;1.9;3.0;2
+.freeobj 0;2052;1.9
+17350
+.freeobj 0;405;1.9;1.8
+17495
+.Signal 4;109A;1.9;3.0;2
+.freeobj 0;2052;1.9
+17578
+.freeobj 0;402;1.9;1.8
+17600
+.pitch 1
+17625
+.pitch -3
+17650
+.wall 0;0;2
+17664
+.freeobj 0;408;1.9;1.1
+17668
+.Signal 2;107A;1.9;2.9;2
+.freeobj 0;2052;1.9
+17675
+Track.announce (nizami.wav)
+Track.Sta (Nizami; 16.1215; 16.1233; ; -1; 1; ; ; 10; 135; )
+.wallend 0
+.railtype 0;27
+.freeobj 0;300
+.freeobj 0;301
+.freeobj 0;306;-2.80
+17680
+.freeobj 0;306;-2.80
+17685
+.freeobj 0;306;-2.80
+17690
+.freeobj 0;306;-2.80
+17695
+.freeobj 0;306;-2.80
+17700
+.railtype 0;25
+.freeobj 0;300
+.freeobj 0;302
+.freeobj 0;306;-2.80
+17705
+.freeobj 0;306;-2.80
+.freeobj 0;83;-4.3
+17710
+.freeobj 0;306;-2.80
+17715
+.freeobj 0;306;-2.80
+17720
+.freeobj 0;306;-2.80
+.freeobj 0;82;-4.5
+17725
+.freeobj 0;300
+.freeobj 0;303
+.freeobj 0;306;-2.80
+17730
+.freeobj 0;306;-2.80
+17735
+.freeobj 0;306;-2.80
+17740
+.freeobj 0;306;-2.80
+.freeobj 0;83;-4.6
+17745
+.freeobj 0;306;-2.80
+.freeobj 0;306;-7.80
+.freeobj 0;306;-12.90
+.freeobj 0;306;-17.90
+17750
+.freeobj 0;300
+.freeobj 0;304
+.freeobj 0;306;-2.80
+.freeobj 0;306;-7.80
+.freeobj 0;306;-12.90
+.freeobj 0;306;-17.90
+17755
+.freeobj 0;306;-2.80
+.freeobj 0;306;-7.80
+.freeobj 0;306;-12.90
+.freeobj 0;306;-17.90
+17760
+.freeobj 0;306;-2.80
+.freeobj 0;306;-7.80
+.freeobj 0;306;-12.90
+.freeobj 0;306;-17.90
+17765
+.freeobj 0;306;-2.80
+.freeobj 0;306;-7.80
+.freeobj 0;306;-12.90
+.freeobj 0;306;-17.90
+.freeobj 0;82;-4.5
+17770
+.freeobj 0;306;-2.80
+.freeobj 0;306;-7.80
+.freeobj 0;306;-12.90
+.freeobj 0;306;-17.90
+17774
+17775
+.freeobj 0;300
+.freeobj 0;305
+.freeobj 0;306;-2.80
+.freeobj 0;306;-17.90
+.freeobj 0;81;-4.6
+.freeobj 0;82;-15.6
+17780
+.freeobj 0;306;-2.80
+.freeobj 0;306;-17.90
+17785
+.freeobj 0;306;-2.80
+17788
+17790
+.freeobj 0;306;-2.80
+.freeobj 0;82;-4.2
+17793
+.Stop 0
+.freeobj 0;400
+17795
+.freeobj 0;306;-2.80
+17797
+17800
+.ground 30
+.wall 0;0;1
+.railtype 0;20
+Track.marker (BpM3\markers\12A.bmp; 125)
+Track.announce (28-may_n.wav)
+.Limit 60;0
+17808
+.Signal -4;105;1.9;3.0;2
+.freeobj 0;2052;1.9
+.freeobj 0;450;1.6;1.0
+17825
+.wall 0;0;0
+.curve 1500;14
+.railtype 0;157
+17875
+.curve 0;0
+.railtype 0;20
+.pitch -1
+17883
+.freeobj 0;407;1.9;1.8
+17900
+.pitch 4
+17950
+.curve -1500;17
+.railtype 0;155
+18000
+.curve 0;0
+.railtype 0;20
+18045
+.freeobj 0;417;1.9;1.8
+18107
+.freeobj 0;405;1.9;1.8
+18155
+.Signal 3;KDe;1.9;3.0;2
+.freeobj 0;2052;1.9
+.freeobj 0;415;2.05;1.1
+18200
+.pitch 3
+18215
+.freeobj 0;402;1.9;1.8
+18225
+.railstart 2;-6.7;0;9
+.wall 2;0;0
+18250
+.railtype 0;9
+.wall 0;1;0
+.wall 2;-1;0
+.freeobj 0;534
+.rail 2;-06.548;0;9
+18259
+.freeobj 0;413;-1.7
+18275
+.railtype 0;9
+.railstart 1;-24.87;0;26
+.rail 2;-01.548;0;9
+.freeobj 0;1127;0;0;180
+18300
+.wall 0;0;2
+.wallend 2
+.railtype 0;20
+.railend 2;0;0;9
+18315
+.Signal 2;101De;1.9;2.9;2
+.freeobj 0;2052;1.9
+18320
+.freeObj 0;420;-1.7;1.6;180
+18325
+Track.announce (28-may.wav)
+Track.Sta (28 May; 16.1340; 16.1420; ; -1; 1; ; ; 10; 130; )
+.ground 0
+.wallend 0
+.railtype 0;27
+.freeobj 0;600
+.freeobj 0;606;-4.0
+.freeobj 0;606;-9.623
+.freeobj 0;611
+18330
+.freeobj 0;606;-4.0
+.freeobj 0;606;-9.623
+.freeobj 0;606;-15.247
+18335
+.freeobj 0;606;-4.0
+.freeobj 0;606;-9.623
+.freeobj 0;606;-15.247
+.freeobj 0;606;-20.87
+18340
+.freeobj 0;606;-4.0
+.freeobj 0;606;-9.623
+.freeobj 0;606;-15.247
+.freeobj 0;606;-20.87
+18345
+.freeobj 0;606;-4.0
+.freeobj 0;606;-9.623
+.freeobj 0;606;-15.247
+.freeobj 0;606;-20.87
+18350
+.railtype 0;25
+.freeobj 0;600
+.freeobj 1;605;0;0;180
+.freeobj 0;606;-4.0
+.freeobj 0;606;-9.623
+.freeobj 0;606;-15.247
+.freeobj 0;606;-20.87
+18355
+.freeobj 0;606;-4.0
+.freeobj 0;606;-20.87
+.freeobj 0;82;-4.6
+18360
+.freeobj 0;606;-4.0
+.freeobj 0;606;-20.87
+.freeobj 0;83;-6.8
+18365
+.freeobj 0;606;-4.0
+18370
+.freeobj 0;606;-4.0
+18375
+.freeobj 0;600
+.freeobj 0;606;-4.0
+.freeobj 0;613
+.freeobj 0;81;-4.9
+18380
+.freeobj 0;606;-4.0
+.freeobj 0;606;-9.623
+18385
+.freeobj 0;606;-4.0
+.freeobj 0;606;-9.623
+.freeobj 0;606;-15.247
+.freeobj 0;606;-20.87
+.freeobj 0;83;-5.4
+18390
+.freeobj 0;606;-4.0
+.freeobj 0;606;-9.623
+.freeobj 0;606;-15.247
+.freeobj 0;606;-20.87
+.freeobj 0;82;-6.2
+18395
+.freeobj 0;606;-4.0
+.freeobj 0;606;-9.623
+.freeobj 0;606;-15.247
+.freeobj 0;606;-20.87
+.freeobj 0;81;-5.1
+18400
+.freeobj 0;600
+.freeobj 1;603;0;0;180
+.freeobj 0;606;-4.0
+.freeobj 0;606;-9.623
+.freeobj 0;606;-15.247
+.freeobj 0;606;-20.87
+18405
+.freeobj 0;606;-4.0
+.freeobj 0;606;-9.623
+.freeobj 0;606;-15.247
+.freeobj 0;606;-20.87
+18410
+.freeobj 0;606;-4.0
+.freeobj 0;606;-9.623
+.freeobj 0;606;-15.247
+.freeobj 0;606;-20.87
+.freeobj 0;82;-5.2
+18415
+.freeobj 0;606;-4.0
+.freeobj 0;606;-9.623
+.freeobj 0;606;-15.247
+.freeobj 0;606;-20.87
+.freeobj 0;83;-10.5
+.freeobj 0;82;-13.0
+18420
+.freeobj 0;606;-4.0
+.freeobj 0;606;-9.623
+.freeobj 0;606;-15.247
+.freeobj 0;606;-20.87
+.freeobj 0;83;-4.9
+.freeobj 0;82;-8.8
+18424
+18425
+.freeobj 0;600
+.freeobj 1;602;0;0;180
+.freeobj 0;606;-4.0
+.freeobj 0;606;-20.87
+.freeobj 0;615
+.freeobj 0;82;-5.8
+18430
+.freeobj 0;606;-4.0
+.freeobj 0;606;-20.87
+18435
+.freeobj 0;606;-4.0
+18438
+.freeobj 0;82;-5.6
+18440
+.freeobj 0;606;-4.0
+18442
+18445
+.freeobj 0;606;-4.0
+Track.announce (bpm3\ellenor2.wav)
+.freeobj 0;81;-5.3
+18447
+.Stop 0
+.freeobj 0;400
+18449.90
+18450
+.wall 0;0;1
+.wall 1;0;1
+.railtype 0;20
+Track.marker (BpM3\markers\11De.bmp; 125)
+Track.announce (ganjlik_n.wav)
+.Limit 62;0
+18459
+.Signal -4;99;1.9;3.0;2
+.freeobj 0;2052;1.9
+.freeobj 0;452;1.6;1.0
+18475
+.railend 1
+.wall 0;0;0
+18484
+.freeobj 0;411;2.0;1.8
+18515
+.freeobj 0;407;1.9;1.8
+18525
+.pitch 0
+18550
+.pitch -4
+18575
+.pitch -11.15
+18600
+.curve -450;55
+.railtype 0;125
+18710
+.freeobj 0;417;1.9;1
+18735
+.Signal -4;97;1.9;3.0;2
+.freeobj 0;2052;1.9
+18750
+.pitch -11.5
+18758
+.freeobj 0;405;1.9;1.0
+18760
+.freeobj 0;412;1.9;1.9
+18886
+.freeobj 0;402;1.6;0.6
+18890
+.Signal 3;95Ft;1.9;3.0;2
+.freeobj 0;2052;1.9
+18900
+.curve 0;0
+.railtype 0;20
+18950
+.pitch -8
+18975
+.pitch -6
+.wall 0;0;2
+18992
+.Signal 2;93Ft;1.9;2.9;2
+.freeobj 0;2052;1.9
+19000
+Track.announce (ganjlik.wav)
+Track.Sta (Ganjlik; 16.1529; 16.1549; ; -1; 1; ; ; 10; 130; )
+.pitch -3
+.wallend 0
+.railtype 0;27
+.freeobj 0;625
+.freeobj 0;626
+.freeobj 0;631;-4.0
+19005
+.freeobj 0;631;-4.0
+19010
+.freeobj 0;631;-4.0
+19015
+.freeobj 0;631;-4.0
+19020
+.freeobj 0;631;-4.0
+19025
+.railtype 0;25
+.freeobj 0;625
+.freeobj 0;627
+.freeobj 0;631;-4.0
+19030
+.freeobj 0;631;-4.0
+.freeobj 0;82;-4.5
+19035
+.freeobj 0;631;-4.0
+19040
+.freeobj 0;631;-4.0
+19045
+.freeobj 0;631;-4.0
+.freeobj 0;631;-10.2
+.freeobj 0;631;-16.4
+.freeobj 0;631;-22.6
+.freeobj 0;83;-4.7
+19050
+.freeobj 0;625
+.freeobj 0;628
+.freeobj 0;631;-4.0
+.freeobj 0;631;-10.2
+.freeobj 0;631;-16.4
+.freeobj 0;631;-22.6
+19055
+.freeobj 0;631;-4.0
+.freeobj 0;631;-10.2
+.freeobj 0;631;-16.4
+.freeobj 0;631;-22.6
+.freeobj 0;82;-4.9
+19060
+.freeobj 0;631;-4.0
+.freeobj 0;631;-10.2
+.freeobj 0;631;-16.4
+.freeobj 0;631;-22.6
+19065
+.freeobj 0;631;-4.0
+.freeobj 0;631;-10.2
+.freeobj 0;631;-16.4
+.freeobj 0;631;-22.6
+.freeobj 0;81;-7.4
+19070
+.freeobj 0;631;-4.0
+.freeobj 0;631;-22.6
+19075
+.freeobj 0;625
+.freeobj 0;629
+.freeobj 0;631;-4.0
+.freeobj 0;631;-22.6
+.freeobj 0;82;-5.7
+19080
+.freeobj 0;631;-4.0
+19085
+.freeobj 0;631;-4.0
+19090
+.freeobj 0;83;-3.4
+.freeobj 0;631;-4.0
+19095
+.freeobj 0;631;-4.0
+19099
+19100
+.freeobj 0;625
+.freeobj 0;630
+.freeobj 0;631;-4.0
+.freeobj 0;83;-5.8
+.freeobj 0;81;-3.5
+19105
+.freeobj 0;631;-4.0
+19110
+.freeobj 0;631;-4.0
+19115
+.freeobj 0;631;-4.0
+19117
+19120
+.freeobj 0;83;-3.3
+19122
+.Stop 0
+.freeobj 0;400
+19123
+19125
+.wall 0;0;1
+.railtype 0;20
+Track.marker (BpM3\markers\10Ft.bmp; 125)
+Track.announce (nariman_n.wav)
+.Limit 53;0
+19133
+.Signal -4;91;1.9;3.0;2
+.freeobj 0;2052;1.9
+.freeobj 0;446;1.6;1.0
+19150
+.wall 0;0;0
+19175
+.pitch -2
+19200
+.curve -450;47
+.railtype 0;125
+19250
+.pitch -3.53
+19305
+.Signal -4;89Ka;1.9;3.0;2
+.freeobj 0;2052;1.9
+19335
+.freeobj 0;405;1.9;2.0
+.freeobj 0;417;1.9;1.5
+19400
+.curve 0;0
+.railtype 0;20
+19410
+.Signal 3;87Ka;1.9;3.0;2
+.freeobj 0;2052;1.9
+19415
+.freeobj 0;402;1.9;1.5
+19475
+.wall 0;0;2
+19492
+.Signal 2;85Ka;1.9;2.9;2
+.freeobj 0;2052;1.9
+19500
+Track.announce (nariman.wav)
+Track.Sta (Nariman Narimanov; 16.1640; 16.1702; ; -1; 1; ; ; 10; 135; )
+.wallend 0
+.railtype 0;27
+.freeobj 0;650
+.freeobj 0;651
+.pitch -3
+.freeobj 0;656;-2.80
+19505
+.freeobj 0;656;-2.80
+19510
+.freeobj 0;656;-2.80
+19515
+.freeobj 0;656;-2.80
+19520
+.freeobj 0;656;-2.80
+19525
+.railtype 0;25
+.freeobj 0;650
+.freeobj 0;652
+.freeobj 0;656;-2.80
+19530
+.freeobj 0;656;-2.80
+.freeobj 0;656;-7.85
+.freeobj 0;656;-12.90
+.freeobj 0;656;-17.95
+.freeobj 0;656;-23.00
+.freeobj 0;83;-4.2
+19535
+.freeobj 0;656;-2.80
+.freeobj 0;656;-7.85
+.freeobj 0;656;-12.90
+.freeobj 0;656;-17.95
+.freeobj 0;656;-23.00
+19540
+.freeobj 0;656;-2.80
+.freeobj 0;656;-7.85
+.freeobj 0;656;-12.90
+.freeobj 0;656;-17.95
+.freeobj 0;656;-23.00
+.freeobj 0;81;-8.7
+19545
+.freeobj 0;656;-2.80
+.freeobj 0;656;-7.85
+.freeobj 0;656;-12.90
+.freeobj 0;656;-17.95
+.freeobj 0;656;-23.00
+.freeobj 0;82;-4.5
+19550
+.freeobj 0;650
+.freeobj 0;653
+.freeobj 0;656;-2.80
+.freeobj 0;656;-23.00
+19555
+.freeobj 0;656;-2.80
+.freeobj 0;656;-23.00
+19560
+.freeobj 0;656;-2.80
+.freeobj 0;81;-4.0
+19565
+.freeobj 0;656;-2.80
+19570
+.freeobj 0;656;-2.80
+19575
+.freeobj 0;650
+.freeobj 0;654
+.freeobj 0;656;-2.80
+19580
+.freeobj 0;656;-2.80
+.freeobj 0;82;-4.1
+19585
+.freeobj 0;656;-2.80
+19590
+.freeobj 0;656;-2.80
+19595
+.freeobj 0;656;-2.80
+.freeobj 0;83;-3.8
+19599
+19600
+.freeobj 0;650
+.freeobj 0;655
+.freeobj 0;656;-2.80
+19605
+.freeobj 0;656;-2.80
+19610
+.freeobj 0;656;-2.80
+.freeobj 0;82;-3.9
+19615
+.freeobj 0;656;-2.80
+19616
+19619
+Track.announce (bpm3\ellenor1.wav)
+19620
+.freeobj 0;656;-2.80
+.freeobj 0;81;-3.7
+19621
+.Stop 0
+.freeobj 0;400
+19624.80
+19625
+.wall 0;0;1
+.railtype 0;20
+Track.marker (BpM3\markers\09Ka.bmp; 125)
+Track.announce (ulduz_n.wav)
+.Limit 71;0
+19632
+.Signal -4;83;1.9;3.0;2
+.freeobj 0;2052;1.9
+.freeobj 0;458;1.6;1.0
+19650
+.wall 0;0;0
+19775
+.freeobj 0;407;1.9;1.8
+19825
+.curve 550;60
+.railtype 0;135
+19875
+.pitch -3.33
+19879
+.freeobj 0;417;1.9;1.8
+20000
+.curve 0;0
+.railtype 0;20
+20050
+.pitch 2
+20075
+.pitch 5.75
+20095
+.Signal -4;81;1.9;3.0;2
+.freeobj 0;2052;1.9
+20150
+.curve -550;60
+.railtype 0;133
+20175
+.freeobj 0;405;1.9;1.8
+20200
+.pitch 6.2
+20225
+.pitch 6.56
+20284
+.Signal 3;79Fk;1.9;3.0;2
+.freeobj 0;2052;1.9
+20294
+.freeobj 0;402;1.9;1.8
+20325
+.curve 0;0
+.railtype 0;20
+20375
+.pitch 3
+20425
+.wall 0;0;2
+20444
+.Signal 2;77Fk;1.9;2.9;2
+.freeobj 0;2052;1.9
+20445
+.freeobj 0;408;1.9;1.1
+20450
+Track.announce (ulduz.wav)
+Track.Sta (Ulduz; 16.1814; 16.1832; ; -1; 1; ; ; 10; 135; )
+.wallend 0
+.railtype 0;27
+.freeobj 0;675
+.freeobj 0;676
+.freeobj 0;681;-4.00
+20455
+.freeobj 0;681;-4.00
+20460
+.freeobj 0;681;-4.00
+.freeobj 0;681;-9.80
+.freeobj 0;681;-15.40
+20465
+.freeobj 0;681;-4.00
+.freeobj 0;681;-9.80
+.freeobj 0;681;-15.40
+.freeobj 0;681;-21.20
+20470
+.freeobj 0;681;-4.00
+.freeobj 0;681;-9.80
+.freeobj 0;681;-15.40
+.freeobj 0;681;-21.20
+20475
+.railtype 0;25
+.freeobj 0;675
+.freeobj 0;677
+.freeobj 0;681;-4.00
+.freeobj 0;681;-9.80
+.freeobj 0;681;-15.40
+.freeobj 0;681;-21.20
+20480
+.freeobj 0;681;-4.00
+.freeobj 0;681;-9.80
+.freeobj 0;681;-15.40
+.freeobj 0;681;-21.20
+.freeobj 0;81;-4.7
+20485
+.freeobj 0;681;-4.00
+.freeobj 0;681;-9.80
+.freeobj 0;681;-15.40
+.freeobj 0;681;-21.20
+20490
+.freeobj 0;681;-4.00
+.freeobj 0;681;-9.80
+.freeobj 0;681;-15.40
+.freeobj 0;681;-21.20
+20495
+.freeobj 0;681;-4.00
+.freeobj 0;681;-9.80
+.freeobj 0;681;-15.40
+.freeobj 0;681;-21.20
+.freeobj 0;82;-4.9
+.freeobj 0;81;-8.7
+.freeobj 0;81;-14.5
+20500
+.freeobj 0;675
+.freeobj 0;678
+.freeobj 0;681;-4.00
+.freeobj 0;681;-21.20
+20505
+.freeobj 0;681;-4.00
+.freeobj 0;681;-21.20
+20510
+.freeobj 0;681;-4.00
+.freeobj 0;83;-3.4
+20515
+.freeobj 0;681;-4.00
+20520
+.freeobj 0;681;-4.00
+20525
+.freeobj 0;675
+.freeobj 0;679
+.freeobj 0;681;-4.00
+20530
+.freeobj 0;681;-4.00
+.freeobj 0;81;-4.6
+20535
+.freeobj 0;681;-4.00
+20540
+.freeobj 0;681;-4.00
+20545
+.freeobj 0;681;-4.00
+.freeobj 0;82;-4.9
+20549
+20550
+.freeobj 0;675
+.freeobj 0;680
+.freeobj 0;681;-4.00
+20555
+.freeobj 0;681;-4.00
+.freeobj 0;83;-5.2
+20560
+.freeobj 0;681;-4.00
+20568
+20570
+.freeobj 0;81;-3.3
+20571
+20573
+.Stop 0
+.freeobj 0;400
+20575
+.wall 0;0;1
+.railtype 0;20
+Track.marker (BpM3\markers\08Fk.bmp; 125)
+Track.announce (koroghlu_n.wav)
+.Limit 60;0
+20580
+.Signal -4;75;1.9;3.0;2
+.freeobj 0;2052;1.9
+.freeobj 0;450;1.6;1.0
+20600
+.wall 0;0;0
+20650
+.pitch 10
+20675
+.pitch 20
+20700
+.pitch 30
+20800
+.curve -1000;18
+.railtype 0;151
+20825
+.freeobj 0;405;1.9;2.0
+.freeobj 0;417;1.9;1.5
+20845
+.Signal 3;73Kl;1.9;3.0;2
+.freeobj 0;2052;1.9
+20875
+.curve 0;0
+.railtype 0;20
+.pitch 20
+20900
+.pitch 10
+20925
+.pitch 3
+20950
+.wall 0;0;2
+20965
+.freeobj 0;408;1.9;1.5
+20969
+.Signal 2;71Kl;1.9;2.9;2
+.freeobj 0;2052;1.9
+20973
+.freeobj 0;402;1.9;1.8
+20975
+Track.announce (koroghlu.wav)
+Track.Sta (Koroghlu; 16.1924; 16.1948; ; -1; 1; ; ; 10; 130; )
+.wallend 0
+.railtype 0;27
+.freeobj 0;700
+.freeobj 0;701
+.freeobj 0;706;-2.80
+20980
+.freeobj 0;706;-2.80
+20985
+.freeobj 0;706;-2.80
+20990
+.freeobj 0;706;-2.80
+20995
+.freeobj 0;706;-2.80
+21000
+.railtype 0;25
+.freeobj 0;700
+.freeobj 0;702
+.freeobj 0;706;-2.80
+21005
+.freeobj 0;706;-2.80
+21010
+.freeobj 0;706;-2.80
+.freeobj 0;83;-4.7
+21015
+.freeobj 0;706;-2.80
+21020
+.freeobj 0;706;-2.80
+21025
+.freeobj 0;700
+.freeobj 0;703
+.freeobj 0;706;-2.80
+21030
+.freeobj 0;706;-2.80
+21035
+.freeobj 0;706;-2.80
+21040
+.freeobj 0;706;-2.80
+21045
+.freeobj 0;706;-2.80
+.freeobj 0;706;-7.80
+21050
+.freeobj 0;700
+.freeobj 0;704
+.freeobj 0;706;-2.80
+.freeobj 0;706;-7.80
+.freeobj 0;706;-12.90
+.freeobj 0;706;-17.90
+21055
+.freeobj 0;706;-2.80
+.freeobj 0;706;-7.80
+.freeobj 0;706;-12.90
+.freeobj 0;706;-17.90
+.freeobj 0;83;-4.8
+21060
+.freeobj 0;706;-2.80
+.freeobj 0;706;-7.80
+.freeobj 0;706;-12.90
+.freeobj 0;706;-17.90
+21065
+.freeobj 0;706;-2.80
+.freeobj 0;706;-7.80
+.freeobj 0;706;-12.90
+.freeobj 0;706;-17.90
+21070
+.freeobj 0;706;-2.80
+.freeobj 0;706;-7.80
+.freeobj 0;706;-12.90
+.freeobj 0;706;-17.90
+.freeobj 0;81;-8.9
+.freeobj 0;82;-15.6
+21074
+21075
+.freeobj 0;700
+.freeobj 0;705
+.freeobj 0;706;-2.80
+.freeobj 0;706;-17.90
+.freeobj 0;82;-4.3
+21080
+.freeobj 0;706;-2.80
+.freeobj 0;706;-17.90
+21085
+.freeobj 0;706;-2.80
+21090
+.freeobj 0;706;-2.80
+21093
+21095
+.freeobj 0;706;-2.80
+.freeobj 0;81;-4.7
+21096
+21098
+.Stop 0
+.freeobj 0;400
+21100
+.wall 0;0;1
+.railtype 0;20
+Track.marker (BpM3\markers\07Kl.bmp; 125)
+Track.announce (gara_n.wav)
+.Limit 69;0
+21105
+.Signal -4;69;1.9;3.0;2
+.freeobj 0;456;1.6;1.0
+.freeobj 0;2052;1.9
+21125
+.wall 0;0;0
+21275
+.pitch 10
+21300
+.pitch 20
+21325
+.pitch 25
+21425
+.Signal -4;67;1.9;3.0;2
+.freeobj 0;2052;1.9
+.pitch 30
+21475
+.curve 1500;14
+.railtype 0;157
+21600
+.pitch 28
+21625
+.curve 0;0
+.railtype 0;20
+21675
+.curve 1000;25
+.railtype 0;153
+.pitch 30
+21700
+.ground 30
+.curve 0;0
+.railtype 0;20
+.railstart 1;-5.2;0;21
+21718
+.freeobj 0;417;1.9;0.8
+21720
+.Signal -4;65;1.9;3.0;2
+.freeobj 0;2052;1.9
+21725
+.wall 0;1;17
+.wall 1;-1;17
+.rail 1;-5.093;0;160
+.curve -1000;25
+.railtype 0;151
+21750
+.wall 0;1;10
+.wall 1;-1;10
+.curve 0;0
+.railtype 0;20
+.rail 1;-4.625;0;159
+21775
+.rail 1;-4.156
+21785
+.freeobj 0;405;1.7;1.8
+21800
+.rail 1;-4.0;0;20
+21825
+.railtype 0;21
+21875
+.curve 600;35
+.railtype 0;139
+21877
+.Signal 3;63N;1.9;3.1;2
+.freeobj 0;2052;1.9
+21900
+.wall 0;1;10
+.wall 1;-1;10
+.freeobj 0;741
+.freeobj 1;742
+.rail 1;-4.523;0;20
+21925
+.wall 0;0;10
+.wall 1;0;10
+.rail 1;-6.079;0;162
+21950
+.rail 1;-8.480;0;162
+.curve 0;0
+.railtype 0;20
+21975
+.pitch 20
+.rail 1;-10.996;0;162
+22000
+.rail 1;-13.161;0;162
+.pitch 11
+22025
+.curve -1050;9
+.railtype 0;149
+.wall 0;0;12
+.rail 1;-15.013;0;21
+.pitch 7
+22043
+.Signal 2;61N;1.9;3.0;2
+.freeobj 0;2052;1.9
+22049
+.freeobj 0;402;1.7;0.8
+22050
+Track.announce (gara.wav)
+Track.Sta (Gara Garayev; 16.2106; 16.2126; ; -1; 1; ; ; 10; 125; )
+.pitch 4
+.wallend 0
+.wallend 1
+.railtype 0;197
+.rail 1;-16.410;0;26
+.freeobj 0;726
+22051
+.freeobj 0;721;-03.20
+.freeobj 0;721;-13.25
+22056
+.freeobj 1;3605
+.freeobj 1;3691
+22059
+.freeobj 0;722;-03.13
+.freeobj 0;722;-13.59
+22067
+.freeobj 0;723;-03.13
+.freeobj 0;723;-13.84
+22075
+.rail 1;-17.210
+.freeobj 0;727
+.freeobj 1;740;0;0;180
+22076
+.freeobj 0;721;-03.20
+.freeobj 0;721;-14.03
+.freeobj 0;83;-5.3
+.freeobj 0;82;-11.6
+22084
+.freeobj 0;722;-03.13
+.freeobj 0;722;-14.16
+22092
+.freeobj 0;723;-03.13
+.freeobj 0;723;-14.22
+.freeobj 0;82;-4.7
+22094
+.freeobj 1;3636;0;0;180
+22100
+.rail 1;-17.414
+.freeobj 0;728
+.freeobj 1;739;0;0;180
+22101
+.freeobj 0;721;-03.20
+.freeobj 0;721;-14.21
+22109
+.freeobj 0;722;-03.13
+.freeobj 0;722;-14.14
+22113
+.freeobj 1;3636;0;0;180
+22117
+.freeobj 0;723;-03.13
+.freeobj 0;723;-14.00
+.freeobj 0;81;-5.0
+.freeobj 0;82;-12.3
+22125
+.rail 1;-17.022
+.freeobj 0;729
+.freeobj 1;738;0;0;180
+22126
+.freeobj 0;721;-03.20
+.freeobj 0;721;-13.79
+22132
+.freeobj 1;3636;0;0;180
+22134
+.freeobj 0;722;-03.13
+.freeobj 0;722;-13.52
+22142
+.freeobj 0;723;-03.13
+.freeobj 0;723;-13.19
+.freeobj 0;83;-5.0
+22149
+.freeobj 0;83;-9.5
+22150
+.rail 1;-16.035
+.freeobj 0;730
+.freeobj 1;737;0;0;180
+22151
+.freeobj 0;721;-03.20
+.freeobj 0;721;-12.78
+.freeobj 0;83;-5.2
+.freeobj 1;3636;0;0;180
+22159
+.freeobj 0;722;-03.13
+.freeobj 0;722;-12.31
+22167
+.freeobj 0;723;-03.13
+.freeobj 0;723;-11.78
+22170
+.freeobj 0;81;-4.7
+.freeobj 1;3606;0;0;180
+22172
+.Stop 0
+.freeobj 0;400
+22174
+.freeobj 1;736;0;0;180
+22174.40
+22175
+.curve 0;0
+.railtype 0;9
+.railstart 3;0;0;9
+.pitch -1
+.wall 0;1;11
+.wall 1;-1;11
+.wall 3;-1;11
+.rail 1;-14.450;0;21
+Track.marker (BpM3\markers\06N.bmp; 125)
+Track.announce (neftchiler_n.wav)
+.Limit 67;0
+22181
+.Signal -4;CN;1.9;3.1;2
+.freeobj 0;2052;1.9
+.freeobj 0;455;1.7;0.5
+22200
+.rail 1;-12.565;0;9
+.railstart 2;-12.565;0;9
+.rail 3;-0.587;0;9
+.wall 0;1;10
+.wall 1;-1;10
+.wall 3;-1;10
+.freeobj 0;1125
+.freeobj 1;1126;0;0;0.717
+22225
+.railtype 0;21
+.rail 1;-10.993;0;151
+.rail 2;-9.429
+.rail 3;-2.348
+.wallend 3
+22233
+.freeobj 0;413;-1.5
+22239
+.freeobj 3;413;-1.9
+22250
+.rail 1;-10.029;0;151
+.rail 2;-4.855
+.rail 3;-4.214
+.freeobj 2;1123;0;0;180
+22273
+22275
+.rail 1;-9.728;0;21
+.rail 2;-4.85;0;19
+.railend 3;-4.85
+.freeobj 2;731
+.freeobj 2;732
+.freeobj 2;732;-6.25
+.freeobj 0;407;1.8;1.8
+22300
+.rail 1;-9.7;0;21
+.freeobj 2;731
+.freeobj 2;732
+.freeobj 2;732;-6.25
+22325
+.freeobj 2;731
+.freeobj 2;732
+.freeobj 2;732;-6.25
+22350
+.freeobj 2;731
+.freeobj 2;732
+.freeobj 2;732;-6.25
+22375
+.freeobj 2;731
+.freeobj 2;732
+.freeobj 2;732;-6.25
+22400
+.curve -1000;25
+.railtype 0;152
+.rail 1;-9.7
+.rail 2;-4.85;0;121
+22405
+.freeobj 2;2052;2.0
+.freeobj 2;2073;2.0;2.0
+22425
+.pitch 3
+.railtype 0;151
+.rail 1;-9.388;0;20
+.rail 2;-5.319;0;121
+22435
+.freeobj 1;413;1.6
+22450
+.curve 0;0
+.railtype 0;20
+.rail 1;-8.449;0;9
+.rail 2;-6.728;0;9
+22470
+.freeobj 1;762;6
+22475
+.rail 1;-7.198;0;20
+.railend 2;-7.198
+.curve 1000;29
+.railtype 0;153
+.freeobj 1;1124;0;0;180
+.freeobj 1;762;6
+22480
+.freeobj 1;762;6
+22485
+.freeobj 1;762;6
+22490
+.freeobj 1;762;6
+22495
+.freeobj 1;762;6
+22500
+.rail 1;-6.261;0;9
+.railstart 2;-6.261;0;9
+.freeobj 1;762;6
+22505
+.freeobj 1;762;6
+22510
+.freeobj 1;762;6
+22525
+.curve 0;0
+.railtype 0;21
+.rail 1;-5.95;0;9
+.rail 2;-3.993;0;9
+.freeobj 1;1122
+22538
+.freeobj 0;413;-1.6
+.Signal -4;59;1.9;3.1;2
+.freeobj 0;2052;1.9
+22544
+.freeobj 1;413;1.6
+22550
+.railtype 0;9
+.rail 1;-5.95;0;20
+.rail 2;-1.957;0;9
+22556
+.freeobj 0;417;1.7;1.5
+22563
+.freeobj 0;412;1.8;1.7
+22575
+.railtype 0;20
+.rail 1;-5.95;0;21
+.railend 2;0
+.freeobj 0;1121;0;0;180
+22586
+.freeobj 0;405;1.7;1.7
+22638
+.freeobj 0;711
+22648
+.freeobj 0;711
+22658
+.freeobj 0;711
+22668
+.freeobj 0;711
+22678
+.freeobj 0;711
+22688
+.freeobj 0;711
+22698
+.freeobj 0;711
+22700
+.freeobj 0;410;1.8;1.8
+22708
+.freeobj 0;711
+22725
+.curve -800;31
+.railtype 0;141
+.rail 1;-5.95;0;21
+22735
+.Signal 3;57Ko;1.9;3.1;2
+.freeobj 0;2052;1.9
+22750
+.rail 1;-5.560;0;152
+.pitch 5
+22755
+.freeobj 0;402;1.7;1.8
+22775
+.rail 1;-4.613;0;152
+.curve 0;0
+.railtype 0;20
+.pitch 10.77
+22800
+.rail 1;-3.713;0;152
+22825
+.rail 1;-3.4;0;21
+22850
+.pitch 8
+.rail 1;-3.4;0;21
+.wall 0;1;12
+.wall 1;-1;12
+22868
+.Signal 2;55Ko;1.9;3.0;2
+.freeobj 0;2052;1.9
+22875
+Track.announce (neftchiler.wav)
+Track.Sta (Neftchiler; 16.2230; 16.2250; ; 1; 1; ; ; 10; 110; )
+.ground 0
+.wallend 0
+.wallend 1
+.railtype 0;29
+.rail 1;-3.4;0;25
+.pitch 5
+22899
+.freeobj 1;750;0;0;180
+22900
+.railtype 0;26
+.freeobj 1;755;0;0;180
+.freeobj 0;81;4.0
+.freeobj 1;82;-4.8
+22920
+.freeobj 0;81;4.2
+.freeobj 1;82;-4.7
+22924
+.freeobj 1;750;0;0;180
+22925
+.freeobj 1;754;0;0;180
+22935
+.freeobj 0;81;4.6
+.freeobj 1;81;-4.3
+22949
+.freeobj 1;750;0;0;180
+22950
+.freeobj 1;753;0;0;180
+.freeobj 0;83;4.8
+.freeobj 1;83;-4.3
+22970
+.freeobj 0;82;4.1
+.freeobj 1;82;-4.3
+22974
+.freeobj 1;750;0;0;180
+22975
+.railtype 1;28
+.freeobj 1;752;0;0;180
+22991
+22994
+Track.announce (bpm3\ellenor1.wav)
+.freeobj 0;81;4.9
+.freeobj 1;83;-4.4
+22996
+.Stop 0
+.freeobj 0;400
+22999
+.freeobj 1;751;0;0;180
+.freeobj 1;750;0;0;180
+22999.40
+23000
+.wall 0;1;11
+.wall 1;-1;11
+.railtype 0;20
+.railtype 1;21
+Track.marker (BpM3\markers\05Ko.bmp; 125)
+Track.announce (khalglar_n.wav)
+.Limit 67;0
+.pitch 8
+.curve 700;25
+.railtype 0;143
+.railtype 1;144
+23006
+.Signal -4;53;1.9;3.1;2
+.freeobj 0;2052;1.9
+.freeobj 0;455;1.65;1.0
+23025
+.wall 0;1;10
+.wall 1;-1;10
+.pitch 11.6
+23125
+.curve 0;0
+.railtype 0;20
+.railtype 1;21
+23150
+.curve -2500;10
+.railtype 0;173
+.railtype 1;174
+23175
+.pitch 9
+23200
+.pitch 5
+.freeobj 0;407;1.7;1.6
+23225
+.pitch 2.5
+23300
+.curve 0;0
+.railtype 0;20
+.railtype 1;21
+23456
+.freeobj 0;417;1.7;1.0
+23460
+.Signal 3;51;1.9;3.1;2
+.freeobj 0;2052;1.9
+23485
+.freeobj 0;412;1.8;1.6
+23525
+.freeobj 0;405;1.7;1.4
+23575
+.curve 1200;24
+.railtype 0;171
+.railtype 1;172
+23670
+.Signal 3;49E;1.9;3.1;2
+.freeobj 0;2052;1.9
+23675
+.curve 0;0
+.railtype 0;20
+.railtype 1;21
+23695
+.freeobj 0;402;1.7;1.5
+23725
+.curve -800;27
+.railtype 0;145
+.railtype 1;146
+23750
+.pitch -2.6
+23800
+.wall 0;1;12
+.wall 1;-1;12
+23810
+.Signal 2;47E;1.9;3.0;2
+.freeobj 0;2052;1.9
+23825
+Track.announce (khalglar.wav)
+Track.Sta (Khalglar Dostlughu; 16.2405; 16.2425; ; 1; 1; ; ; 10; 105; )
+.curve 0;0
+.wallend 0
+.wallend 1
+.railtype 0;29
+.railtype 1;25
+23831
+.freeobj 1;3609
+.freeobj 1;3691
+.freeobj 1;3352
+23849
+.freeobj 1;775;0;0;180
+23850
+.railtype 0;26
+.freeobj 1;780;0;0;180
+23860
+.freeobj 0;83;4.1
+.freeobj 1;82;-4.3
+23869
+.freeobj 1;3639;0;0;180
+.freeobj 1;3104;0;0;180
+23874
+.freeobj 1;775;0;0;180
+23875
+.freeobj 1;779;0;0;180
+23885
+.freeobj 0;81;3.9
+.freeobj 1;81;-5.0
+23888
+.freeobj 1;3639;0;0;180
+.freeobj 1;3105;0;0;180
+23899
+.freeobj 1;775;0;0;180
+23900
+.freeobj 1;778;0;0;180
+23905
+.freeobj 1;82;-4.6
+23907
+.freeobj 1;3639;0;0;180
+.freeobj 1;3106;0;0;180
+23924
+.freeobj 1;775;0;0;180
+23925
+.railtype 1;28
+.freeobj 1;777;0;0;180
+.freeobj 0;82;4.7
+.freeobj 1;81;-5.1
+23926
+.freeobj 1;3639;0;0;180
+.freeobj 1;3107;0;0;180
+23940
+.freeobj 0;83;4.2
+.freeobj 1;83;-4.9
+23941
+23945
+.freeobj 1;3608;0;0;180
+.freeobj 1;3353;0;0;180
+23946
+.Stop 0
+.freeobj 0;400
+23949
+.freeobj 1;775;0;0;180
+.freeobj 1;776;0;0;180
+23949.40
+23950
+Track.announce (ahmedli_n2.wav)
+Track.Sta (Ahmedli; 16.2520; 16.2542; ; 1; 1; ; ; 10; 100; )
+.wall 0;1;11
+.wall 1;-1;11
+.railtype 0;20
+.railtype 1;21
+Track.marker (BpM3\markers\04E.bmp; 125)
+.Limit 60;0
+23956
+.Signal -4;45;1.9;3.1;2
+.freeobj 0;2052;1.9
+.freeobj 0;450;1.65;1.0
+23975
+.wall 0;1;10
+.wall 1;-1;10
+24005
+.freeobj 0;407;1.7;1.8
+24200
+.freeobj 0;405;1.7;1.7
+.freeobj 0;417;1.7;1.2
+24283
+.Signal 3;43Po;1.9;3.1;2
+.freeobj 0;2052;1.9
+24370
+.freeobj 0;402;1.7;1.8
+24425
+.wall 0;1;12
+.wall 1;-1;12
+24425
+.pitch -1
+.wall 0;1;12
+.wall 1;-1;12
+24443
+.Signal 2;41Po;1.9;3.0;2
+.freeobj 0;2052;1.9
+24444
+.freeobj 0;408;1.7;1.7
+24450
+Track.announce (ahmedli.wav)
+.pitch 2.74
+.wallend 0
+.wallend 1
+.railtype 0;29
+.railtype 1;25
+24471
+24474
+.freeobj 1;800;0;0;180
+24475
+.railtype 0;26
+.freeobj 1;805;0;0;180
+24480
+.freeobj 1;81;-4.7
+24499
+.freeobj 1;800;0;0;180
+24500
+.freeobj 1;804;0;0;180
+24505
+.freeobj 1;83;-4.2
+24524
+.freeobj 1;800;0;0;180
+24525
+.freeobj 1;803;0;0;180
+.freeobj 0;81;4.5
+.freeobj 1;83;-4.6
+24549
+.freeobj 1;800;0;0;180
+24550
+.railtype 1;28
+.freeobj 1;802;0;0;180
+24560
+.freeobj 1;83;-4.8
+24566
+24570
+.freeobj 0;81;3.8
+24571
+.Stop 0
+.freeobj 0;400
+24574
+.freeobj 1;800;0;0;180
+.freeobj 1;801;0;0;180
+24574.40
+24575
+.wall 0;1;11
+.wall 1;-1;11
+.railtype 0;20
+.railtype 1;21
+Track.marker (BpM3\markers\03Po.bmp; 125)
+Track.announce (hazi_n.wav)
+.Limit 59;0
+24581
+.Signal -4;39;1.9;3.1;2
+.freeobj 0;2052;1.9
+.freeobj 0;449;1.65;1.0
+24600
+.pitch -1.97
+.wall 0;1;10
+.wall 1;-1;10
+24606
+.freeobj 0;411;1.8;1.8
+24650
+.curve -500;42
+.railtype 0;129
+.railtype 1;130
+24665
+.freeobj 0;407;1.7;1.5
+24775
+.curve 0;0
+.railtype 0;20
+.railtype 1;21
+24800
+.pitch 1
+24810
+.freeobj 0;405;1.7;2.1
+.freeobj 0;417;1.7;1.6
+24825
+.pitch 3.65
+.curve 800;27
+.railtype 0;147
+.rail 1;-3.4
+24850
+.rail 1;-3.833;0;148
+24860
+.Signal 3;37;1.9;3.1;2
+.freeobj 0;2052;1.9
+24875
+.rail 1;-4.649
+.freeobj 0;1051
+24900
+.rail 1;-5.460
+.freeobj 0;1051
+24925
+.rail 1;-6.115
+.freeobj 0;1051
+24950
+.curve 0;0
+.railtype 0;20
+.rail 1;-7.013;0;21
+.freeobj 0;1051
+24970
+.freeobj 0;402;1.7;1.8
+24975
+.rail 1;-7.520;0;9
+.railstart 2;-7.520;0;9
+.freeobj 0;1051
+25000
+.freeobj 1;1120;0.736;0;3.37
+.rail 1;-8.767;0;20
+.rail 2;-7.292;0;21
+.freeobj 0;1051
+25013
+.freeobj 1;413;1.6
+25025
+.rail 1;-10.748
+.rail 2;-6.313
+.wall 0;1;12
+.wall 1;-1;12
+.freeobj 0;825;0;0;0
+25030
+.Signal 2;35H;1.9;3.0;2
+.freeobj 0;2052;1.9
+25050
+Track.announce (hazi.wav)
+Track.Sta (Hazi Aslanov; 16.2641; 16.2721; ; 1; 1; ; ; 10; 65; )
+.freeobj 0;826;0;0;0
+.pitch 3
+.wallend 0
+.wallend 1
+.railtype 0;29
+.rail 1;-12.708;0;25
+.rail 2;-5.380;0;9
+.freeobj 2;1165
+25055
+25075
+.railtype 0;26
+.freeobj 0;827;0;0;0
+.rail 1;-14.271
+.rail 2;-4.882;0;25
+25080
+.freeobj 1;82;4.1
+25093
+25095
+.freeobj 1;81;4.6
+25100
+.freeobj 0;828;0;0;0
+.rail 1;-15.315
+.rail 2;-4.879
+25110
+.freeobj 1;83;4.7
+25112
+25122
+.freeobj 1;81;4.9
+25125
+.freeobj 0;829;0;0;0
+.rail 1;-16.096
+.rail 2;-4.993
+25130
+.freeobj 0;83;4.6
+25131
+25135
+.freeobj 1;82;4.9
+25145
+.freeobj 1;81;4.2
+25150
+.freeobj 0;830;0;0;0
+.railtype 0;25
+.rail 1;-16.878
+.rail 2;-5.108;0;28
+25152
+.freeobj 0;83;4.9
+25160
+.freeobj 1;82;4.5
+25162
+25166
+.freeobj 0;82;4.2
+25167
+25168
+.Stop 0
+.freeobj 0;400
+25174
+.Signal -4;AH;1.9;3.1;2
+.freeobj 0;2052;1.9
+.freeobj 0;459;1.65;0.45
+25175
+.freeobj 0;831;0;0;0
+.railtype 0;9
+Track.marker (BpM3\markers\02H.bmp; 125)
+.Limit 72;0
+.pitch 3
+.rail 1;-17.66;0;21
+.rail 2;-5.338;0;1
+.railstart 3;0;0;9
+25200
+.rail 1;-18.444;-0.1;21
+.rail 2;-6.174;0;0
+.rail 3;-1.317;0;9
+.freeobj 0;1119
+.freeobj 0;832
+25215
+.freeobj 0;413;-1.6
+25225
+.rail 1;-19.693;-0.1;21
+.rail 2;-7.333;0;9
+.rail 3;-5.311;0;9
+.railstart 4;-14.687;0;22
+.railtype 0;20
+.freeobj 0;833
+.wall 1;-1;10
+25250
+.Back 1
+.rail 1;-21.836;-0.15;21
+.rail 2;-10.685;-0.15;9
+.railend 3;-10.685;-0.15;9
+.rail 4;-15.531;-0.15;9
+.freeobj 0;834
+.freeobj 2;1051;0;-0.01
+.freeobj 2;1118;0;0;180
+25275
+.wall 0;-1;10
+.rail 1;-24.885;-0.3
+.rail 2;-16.055;-0.3
+.rail 4;-15.531;-0.3;9
+.freeobj 0;835
+.freeobj 2;1051;0;-0.02
+.freeobj 2;1115;0;0;180
+25300
+.wall 0;0;10
+.rail 1;-29.249;-0.5;20
+.rail 2;-21.424;-0.5;21
+.railend 4;-21.424;-0.5;9
+.freeobj 2;1051;0;-0.02
+25325
+.rail 1;-33.761;-0.6
+.rail 2;-27.847;-0.6
+.freeobj 2;1051;0;-0.02
+25350
+.curve -500;58
+.railtype 0;129
+.pitch 15
+.rail 1;-38.991;-0.7
+.rail 2;-34.433;-0.7
+.wall 2;1;13
+25375
+.wallend 0
+.pitch 28
+.freeobj 0;1361
+.ground 12
+.railtype 0;211
+.rail 1;-43.716;-0.9;21
+.rail 2;-39.638;-0.9
+25400
+.freeobj 0;1362
+.rail 1;-47.643;-1.025
+.rail 2;-43.600;-1.025
+25425
+.freeobj 0;1363
+.rail 1;-50.390;-1.55
+.rail 2;-46.371;-1.55
+25450
+.freeobj 0;1364
+.rail 1;-51.989;-2.325
+.rail 2;-47.985;-2.325
+25475
+.freeobj 0;1365
+.rail 1;-52.463;-3.1
+.rail 2;-48.463;-3.1
+25500
+.freeobj 0;1366
+.rail 1;-51.817;-3.875
+.rail 2;-47.811;-3.875
+25525
+.freeobj 0;1367
+.rail 1;-50.043;-4.65
+.railend 2;-46.021;-4.65
+.wallend 2
+25550
+.pitch 20
+.freeobj 0;1368
+.rail 1;-47.118;-5.375
+25575
+.pitch 12
+.freeobj 0;1369
+.rail 1;-43.034;-5.85
+25600
+.pitch 3.4
+.freeobj 0;1370
+.rail 1;-38.440;-5.92
+25621
+.Signal -4;33;2.0;3.1;2
+.freeobj 0;2051;2.0
+25625
+.ground 10
+.wall 0;1;31
+.wallend 1
+.pitch -6.4
+.rail 1;-33.626;-5.47;202
+.ground 11
+25650
+.rail 1;-28.598;-4.685
+.curve 0;0
+.railtype 0;31
+.freeobj 1;1358;0;0.400;182.604
+25675
+.rail 1;-23.362;-3.9
+.freeobj 1;1357;0;0.400;182.604
+25680
+.freeobj 0;2001;1.5
+.freeobj 0;407;1.5;1.8
+25700
+.rail 1;-17.849;-3.115
+.freeobj 1;1356;0;0.400;182.604
+25725
+.rail 1;-13.067;-2.33
+.freeobj 1;1355;0;0.400;182.604
+25750
+.rail 1;-9.038;-1.545
+.freeobj 1;1354;0;0.400;182.604
+25775
+.rail 1;-6.177;-0.76
+.freeobj 1;1353;0;0.2;182.604
+.ground 10
+.pitch -4
+25800
+.pitch 1.3
+.rail 1;-4.468;-0.2
+.freeobj 1;1352;0;0.0;182.604
+.freeobj 1;80;0;0;0
+25825
+.rail 1;-3.900;0.0;32
+.freeobj 1;1351;0;-0.1;181.302
+.wall 1;-1;31
+.freeobj 0;1381;0;0;0.000
+.pitch 4.1
+25850
+.freeobj 0;1380;0;0;0.000
+25875
+.freeobj 0;1379;0;0;0.000
+25900
+.curve 650;58
+.railtype 0;213
+.rail 1; -3.900;0;204
+.wallend 1
+.freeobj 0;1378;0;0;0.000
+25915
+.Signal -4;31;2.0;3.1;2
+.freeobj 0;2051;2.0
+25925
+.rail 1; -4.051;0;204
+.wallend 0
+25950
+.railtype 0;214
+.rail 1; -4.497
+.freeobj 1;1377;0;0;178.698
+25975
+.railtype 0;213
+.rail 1; -4.766;0;204
+.wall 1;-1;33
+26000
+.wall 0; 1;31
+.rail 1; -4.855
+.freeobj 1;1376;0;0;178.698
+26025
+.rail 1; -4.766
+26050
+.rail 1; -4.497
+.freeobj 0;2001;1.8;-0.2
+.freeobj 0;417;1.8;1.6
+26075
+.rail 1; -4.051
+26100
+.curve 0;0
+.railtype 0;31
+.wall 1;-1;31
+.rail 1; -3.900;0;32
+26125
+.freeobj 0;1371;0;0;0.12
+.freeobj 0;1434;-3.9;1;180
+.railstart 8;-19.9;0;2
+.railstart 9; -23.9;0;3
+.wall 1;-1;51
+.wall 9;-1;31
+26200
+.freeobj 0;2001;1.8;-0.2
+.freeobj 0;405;1.8;1.6
+26294
+.Signal -4;29;2.0;3.1;2
+.freeobj 0;2051;2.0
+26425
+.curve 550;69
+.railtype 0;203
+.railtype 1;204
+.wall 9;-1;39
+26450
+.rail 8;-19.822
+.rail 9;-23.822
+26475
+.rail 8;-19.262
+.rail 9;-23.264
+26500
+.rail 8;-18.211
+.rail 9;-22.216
+26525
+.wallend 1
+.rail 8;-16.674
+.rail 9;-20.683
+26550
+.rail 8;-14.656
+.rail 9;-18.671
+.wall 9;-1;31
+26567
+.Signal -4;27KK;2.0;3.1;2
+.freeobj 0;2051;2.0
+26575
+.pitch 8.5
+.rail 8;-12.214
+.rail 9;-16.234
+26600
+.rail 8;-10.477
+.rail 9;-14.481
+26625
+.curve 0;0
+.railtype 0;31
+.railtype 1;32
+.wallend 1
+.rail 1;-03.910;0;32
+.rail 8;-9.91
+.rail 9;-13.91
+26675
+.curve 1050;24
+.railtype 0;206
+.rail 1;-03.910
+.rail 8;-09.910
+.rail 9;-13.910
+26682
+.freeobj 0;2001;2.1;-0.2
+.freeobj 0;402;2.1;1.6
+26692
+.Signal 3;25KK;2.0;3.1;2
+.freeobj 0;2051;2.0
+26700
+.rail 1;-04.331
+.rail 8;-10.331
+.rail 9;-14.331
+26725
+.curve 0;0
+.railtype 0;31
+.rail 1;-05.340
+.rail 8;-11.340
+.rail 9;-15.340
+26750
+.pitch 3
+.rail 1;-06.480
+.rail 8;-12.480
+.rail 9;-16.480
+26775
+.rail 1;-07.620
+.rail 8;-13.620
+.rail 9;-17.620
+26789
+26799
+.Signal 2;23KK;2.0;3.0;2
+.freeobj 0;2051;2.0
+26800
+.rail 1;-08.760
+.rail 8;-14.760
+.rail 9;-18.760
+26820
+.freeobj 0;2001;1.8;-0.2
+.freeobj 0;408;1.8;1.6
+26825
+.railtype 0;33
+.wallend 0
+.wallend 1
+.wall 0; 1;61
+.wall 9;-1;61
+.rail 1;-09.900
+.rail 8;-15.900
+.rail 9;-19.900
+.freeobj 1;857;0;0;180
+26831
+.freeobj 1;3605
+.freeobj 1;3691
+26850
+.railtype 0;31
+.rail 1;-11.040
+.rail 8;-17.040
+.rail 9;-21.040
+.freeobj 1;856;0;0;180
+.freeobj 1;3636;0;0;180
+26855
+.freeobj 1;81;3.7
+26869
+.freeobj 1;3636;0;0;180
+26872
+.freeobj 1;83;4.9
+26875
+.rail 1;-12.180
+.rail 8;-18.180;0;8
+.rail 9;-22.180;0;8
+.freeobj 1;855;0;0;180
+.freeobj 9;1111
+.freeobj 8;1112
+26885
+.freeobj 1;82;4.5
+26888
+.freeobj 1;3636;0;0;180
+26900
+.rail 1;-13.320
+.rail 8;-19.320
+.rail 9;-23.320
+.freeobj 1;854;0;0;180
+.freeobj 1;83;5.4
+26907
+.freeobj 1;3636;0;0;180
+26915
+.freeobj 1;81;3.8
+26925
+.rail 1;-14.460
+.rail 8;-20.460;0;36
+.rail 9;-24.460;0;2
+.freeobj 1;853;0;0;180
+.freeobj 1;82;5.1
+.freeobj 8;1111;0;0;179.10
+.freeobj 9;1112;0;0;180
+26926
+.freeobj 1;3636;0;0;180
+26940
+26942
+.freeobj 1;81;4.7
+26945
+.freeobj 0;400
+.freeobj 1;3606;0;0;180
+26949
+.freeobj 1;852;0;0;180.000
+26950
+.curve -327;29
+.pitch 0
+.rail 1;-15.600
+.rail 8;-21.209
+.rail 9;-25.600;0;36
+.railstart 4;-25.600;0;34
+.railtype 0;219
+.wall 0; 1;64
+.wall 4;-1;73
+.wallend 9
+Track.marker (BpM3\markers\01KK.bmp; 125)
+.Limit 33;0
+26953
+.freeobj 0;860
+.Signal 5;HKK;2.0;3.1;2
+.freeobj 0;2052;2.0
+.freeobj 0;441;1.75;0.4
+26975
+.freeobj 1;881;0;0;179.12
+.freeobj 1;882;0;0;179.12
+.rail 1;-15.793
+.rail 8;-20.620;0;34
+.rail 9;-24.695
+.rail 4;-25.799
+.wall 4;-1;74
+27000
+.curve 0;0
+.railtype 0;31
+.wall 0; 1;62
+.wall 9;-1;76
+.wallend 4
+.rail 1;-13.775;0;8
+.railend 8;-16.019
+.rail 9;-18.962
+.railend 4;-24.218
+.freeobj 0;2001;1.8;-0.2
+.freeobj 0;408;1.8;1.6
+27025
+.railtype 0;8
+.rail 1;-9.800;0;8
+.rail 3;0;0;8
+.rail 9;-13.764
+.railstart 2;-9.800;0;8
+.freeobj 1;1108;0;0;180
+.wallend 0
+.wall 3; 1;62
+.wall 9;-1;72
+27050
+.freeobj 0;1105
+.freeobj 2;1106
+.rail 1;-5.385;0;8
+.rail 2;-4.760;0;8
+.rail 3; 0.665;0;8
+.rail 9;-9.949;0;36
+.wall 3; 1;77
+27058
+.freeobj 1;413;2.75
+27075
+.railtype 0;8
+.curve 543.861;0
+.wallend 3
+.wallend 9
+.rail 1;-2.300;0;8
+.rail 2; 0.200;0;8
+.rail 3; 2.377;0;8
+.rail 9;-7.100;0;36
+27088
+.freeobj 9;1391;7.2;0;180
+27097
+.freeobj 1;413;2.4
+27100
+.wall 3; 1;32
+.wall 9;-1;75
+.rail 1;-0.575;0;8
+.rail 2; 3.650;0;8
+.rail 3; 4.225;0;8
+.rail 9;-5.375;0;36
+.freeobj 0;1104;-0.575;0;181.317
+.freeobj 3;1103;0;0;180
+27123
+27125
+.curve 0;0
+.railtype 0;32
+.freeobj 0;402;1.4;1.6
+.freeobj 0;861;2.40;0
+.freeobj 0;866; 1.5;0
+.railend 1;0.000;0;8
+.railend 2;4.800;0;8
+.rail 3;4.800;0;32
+.rail 9;-4.800;0;36
+27130
+27150
+.railtype 0;8
+.rail 9;-4.800;0;35
+.freeobj 0;861;2.40;0
+.freeobj 0;866; 1.5;0
+.freeobj 0;1102
+.railstart 4;0;0;8
+27170
+.freeobj 9;413;1.5
+27175
+.railtype 0;32
+.rail 9;-4.800;0;8
+.freeobj 0;861;2.40;0
+.freeobj 3;866;-1.5;0
+.rail 4;-2.4;0;8
+27180
+.freeobj 0;413;-1.5
+27188
+27190
+.freeobj 0;402;-2.5;1.7
+27195
+27200
+.curve -800;7
+.railtype 0;222
+.rail 3; 4.8;0;222
+.railend 4;-4.8;0;8
+.rail 9;-4.8;0;221
+.freeobj 0;862;0;0;180.895
+.freeobj 0;863;2.40;0
+.freeobj 9;863;2.40;0
+.freeobj 9;1101;0;0;180.895
+.freeobj 0;867;-1.5
+.freeobj 0;867; 1.5
+.freeobj 3;867;-1.5
+.freeobj 9;867; 1.5
+27204
+27205
+27225
+.freeobj 0;863;2.40;0
+.freeobj 9;863;2.40;0
+.freeobj 0;867;-1.5
+.freeobj 0;867; 1.5
+.freeobj 3;867;-1.5
+.freeobj 9;867; 1.5
+27243
+27250
+.rail 3; 4.800;0;8
+.freeobj 0;863;2.40;0
+.freeobj 9;863;2.40;0
+.freeobj 0;867;-1.5
+.freeobj 0;867; 1.5
+.freeobj 9;867; 1.5
+.freeobj 3;1181
+27262
+27269
+.freeobj 3;400
+27275
+.curve 0;0
+.railtype 0;32
+.rail 9;-4.800;0;36
+.freeobj 0;861;2.40;0
+.freeobj 9;861;2.40;0
+.freeobj 0;866;-1.5
+.freeobj 0;866; 1.5
+.freeobj 3;866;-1.5
+.freeobj 9;866; 1.5
+27281
+27299
+.freeobj 3;2012
+27300
+.railtype 0;8
+.rail 9;-4.800;0;8
+.freeobj 0;861;2.40;0
+.freeobj 9;861;2.40;0
+.wallend 3
+.wallend 9
+27306
+.Stop 0
+.freeobj 0;400
+27307
+.Tr 1;0
+27313
+.freeobj 0;2011
+27317
+.freeobj 3;871
+27319
+.freeobj 9;400
+27324
+.freeobj 0;872
+.signal 2;Z2KK;0;-1
+27325
+.freeobj 9;861;2.40;0
+27329
+.freeobj 9;2011
+27335
+.freeobj 9;873
+27350
+.freeobj 0;875
+.railend 3
+.railend 9

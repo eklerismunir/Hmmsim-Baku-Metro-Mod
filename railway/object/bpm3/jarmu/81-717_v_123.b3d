@@ -1,0 +1,40 @@
+
+
+
+
+
+[MeshBuilder]
+Vertex  0.73,1.53,00.14
+Vertex  0.73,1.71,00.14
+Vertex  0.91,1.71,00.14
+Vertex  0.91,1.53,00.14
+Vertex -0.73,1.53,00.14
+Vertex -0.73,1.71,00.14
+Vertex -0.91,1.71,00.14
+Vertex -0.91,1.53,00.14
+Face 00,01,02,03
+Face 07,06,05,04
+[Texture]
+Load 81_kl02.bmp
+Coordinates 00,0,1
+Coordinates 01,0,0
+Coordinates 02,1,0
+Coordinates 03,1,1
+Coordinates 04,1,1
+Coordinates 05,1,0
+Coordinates 06,0,0
+Coordinates 07,0,1
+Transparent 255,0,0
+
+[MeshBuilder]
+Cylinder 16,0.09,0.09,0.08
+Color 66,51,45
+Rotate 1,0,0,90
+Translate 0.82,1.62,0.19
+[MeshBuilder]
+Cylinder 16,0.09,0.09,0.08
+Color 66,51,45
+Rotate 1,0,0,90
+Translate -0.82,1.62,0.19
+
+

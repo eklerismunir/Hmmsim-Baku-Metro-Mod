@@ -1,0 +1,9 @@
+
+
+
+
+
+[MeshBuilder]
+cube 0.25,2.2,0.25
+translate -2.2,1.9,0
+color 20,20,20
